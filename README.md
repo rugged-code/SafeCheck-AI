@@ -340,15 +340,15 @@ The model generates the citation.
 
 # 📈 Evaluation
 
-SafeCheck AI includes a manually labeled evaluation set covering **7 safety-oriented queries** across:
+SafeCheck AI includes a manually labeled evaluation set covering **8 safety-oriented queries** across:
 
-* GI adverse events
-* Renal impairment
-* Pediatric reactions
-* Life-threatening events
-* Hospitalizations
-* Skin reactions
-* Haemorrhage
+* GI adverse events & ulcer perforation
+* Renal impairment & acute kidney injury
+* Pediatric angioedema reactions
+* Severe cutaneous adverse reactions (Stevens-Johnson syndrome, AGEP)
+* Pulmonary haemorrhage & haemoptysis
+* Misuse/abuse complications (Renal tubular acidosis & hypokalaemia)
+* Non-serious drug hypersensitivity reactions
 
 Each query is mapped to relevant report IDs confirmed against the underlying raw records.
 
@@ -363,10 +363,8 @@ Each query is mapped to relevant report IDs confirmed against the underlying raw
 Run the evaluation suite:
 
 ```bash
-python src/evaluate.py
+python -m src.evaluation
 ```
-
-> **Before publishing:** replace this section with the final measured Recall@5, Precision@5, and Citation Hallucination Rate.
 
 ---
 
@@ -404,9 +402,9 @@ safecheck-ai/
 │   ├── ingest.py
 │   ├── flatten.py
 │   ├── embed_and_store.py
-│   ├── retrieve.py
+│   ├── retriever.py
 │   ├── generate.py
-│   └── evaluate.py
+│   └── evaluation.py
 │
 ├── app.py
 ├── requirements.txt
@@ -421,10 +419,10 @@ safecheck-ai/
 | `ingest.py`          | Fetches openFDA records with pagination and retries             |
 | `flatten.py`         | Decodes fields, filters drug roles, and creates evidence chunks |
 | `embed_and_store.py` | Generates embeddings and stores vectors in Qdrant               |
-| `retrieve.py`        | Performs metadata-filtered retrieval and reranking              |
+| `retriever.py`       | Performs metadata-filtered retrieval and reranking              |
 | `generate.py`        | Generates structured safety briefs and verifies citations       |
-| `evaluate.py`        | Evaluates retrieval and citation quality                        |
-| `schema.py`          | Defines Pydantic models                                         |
+| `evaluation.py`      | Evaluates retrieval and citation quality                        |
+| `schema.py`          | Defines AdverseEventChunk Pydantic model                        |
 | `config.py`          | Configuration and environment variables                         |
 | `app.py`             | Streamlit application                                           |
 
@@ -435,16 +433,16 @@ safecheck-ai/
 ## Prerequisites
 
 * Python 3.x
-* openFDA API access
+* openFDA API access (optional API key)
 * Qdrant Cloud account
 * Jina AI API key
-* Gemini API key
+* Google Gemini API key
 
 ## 1. Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/safecheck-ai.git
-cd safecheck-ai
+git clone https://github.com/rugged-code/SafeCheck-AI.git
+cd SafeCheck-AI
 ```
 
 ## 2. Install dependencies
@@ -455,14 +453,18 @@ pip install -r requirements.txt
 
 ## 3. Configure environment variables
 
-Create a `.env` file:
+Copy `.env.example` to `.env` and fill in your credentials:
+
+```bash
+cp .env.example .env
+```
 
 ```env
-OPENFDA_API_KEY=your_key
+OPENFDA_API_KEY=your_key            # Optional (raises openFDA rate limit)
 QDRANT_URL=your_qdrant_url
 QDRANT_API_KEY=your_qdrant_api_key
 JINA_API_KEY=your_jina_api_key
-GEMINI_API_KEY=your_gemini_api_key
+GEMINI_API_KEY=your_gemini_api_key  # or GOOGLE_API_KEY
 ```
 
 **Never commit your `.env` file or API keys to GitHub.**
