@@ -1,0 +1,7 @@
+requests
+tenacity
+tqdm
+pydantic
+python-dotenv
+qdrant-client
+google-generativeai

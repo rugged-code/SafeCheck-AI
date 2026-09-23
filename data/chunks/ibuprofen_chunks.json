@@ -1,0 +1,3610 @@
+[
+  {
+    "report_id": "10003301",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-02-28",
+    "serious": true,
+    "outcome": [
+      "other serious outcome"
+    ],
+    "reactions": [
+      "Dyspepsia",
+      "Renal impairment"
+    ],
+    "patient_age": null,
+    "patient_sex": "female",
+    "has_narrative": false,
+    "chunk_text": "Female patient reported Dyspepsia, Renal impairment following use of IBUPROFEN. Outcome: serious \u2014 other serious outcome. Reported: 2014-02-28. Report ID: 10003301."
+  },
+  {
+    "report_id": "10004208",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-12",
+    "serious": true,
+    "outcome": [
+      "hospitalization",
+      "life-threatening",
+      "other serious outcome"
+    ],
+    "reactions": [
+      "Off label use",
+      "Stevens-Johnson syndrome",
+      "Consciousness fluctuating",
+      "Lip swelling",
+      "Lip discolouration",
+      "Blister",
+      "Pain",
+      "Skin exfoliation",
+      "Chapped lips",
+      "Eye disorder",
+      "Scab",
+      "Scar",
+      "Weight decreased",
+      "Skin disorder",
+      "Rash generalised",
+      "Dyspnoea",
+      "Hypersensitivity",
+      "Malaise"
+    ],
+    "patient_age": "13-months-old",
+    "patient_sex": "male",
+    "has_narrative": false,
+    "chunk_text": "13-months-old male patient reported Off label use, Stevens-Johnson syndrome, Consciousness fluctuating, Lip swelling, Lip discolouration, Blister, Pain, Skin exfoliation, Chapped lips, Eye disorder, Scab, Scar, Weight decreased, Skin disorder, Rash generalised, Dyspnoea, Hypersensitivity, Malaise following use of IBUPROFEN. Outcome: serious \u2014 hospitalization, life-threatening, other serious outcome. Reported: 2014-03-12. Report ID: 10004208."
+  },
+  {
+    "report_id": "10004377",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-12",
+    "serious": true,
+    "outcome": [
+      "other serious outcome"
+    ],
+    "reactions": [
+      "Hypoaesthesia oral",
+      "Hypoaesthesia"
+    ],
+    "patient_age": "24-months-old",
+    "patient_sex": "female",
+    "has_narrative": false,
+    "chunk_text": "24-months-old female patient reported Hypoaesthesia oral, Hypoaesthesia following use of IBUPROFEN. Outcome: serious \u2014 other serious outcome. Reported: 2014-03-12. Report ID: 10004377."
+  },
+  {
+    "report_id": "10004814",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-12",
+    "serious": true,
+    "outcome": [
+      "hospitalization"
+    ],
+    "reactions": [
+      "Intraventricular haemorrhage neonatal"
+    ],
+    "patient_age": "4-hours-old",
+    "patient_sex": "male",
+    "has_narrative": false,
+    "chunk_text": "4-hours-old male patient reported Intraventricular haemorrhage neonatal following use of IBUPROFEN. Outcome: serious \u2014 hospitalization. Reported: 2014-03-12. Report ID: 10004814."
+  },
+  {
+    "report_id": "10004874",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-12",
+    "serious": false,
+    "outcome": [],
+    "reactions": [
+      "Drug hypersensitivity"
+    ],
+    "patient_age": "69-months-old",
+    "patient_sex": "female",
+    "has_narrative": false,
+    "chunk_text": "69-months-old female patient reported Drug hypersensitivity following use of IBUPROFEN. Outcome: non-serious \u2014 unspecified outcome. Reported: 2014-03-12. Report ID: 10004874."
+  },
+  {
+    "report_id": "10005044",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-12",
+    "serious": true,
+    "outcome": [
+      "hospitalization"
+    ],
+    "reactions": [
+      "Haemoptysis",
+      "Pulmonary haemorrhage"
+    ],
+    "patient_age": "18-months-old",
+    "patient_sex": "male",
+    "has_narrative": false,
+    "chunk_text": "18-months-old male patient reported Haemoptysis, Pulmonary haemorrhage following use of IBUPROFEN. Outcome: serious \u2014 hospitalization. Reported: 2014-03-12. Report ID: 10005044."
+  },
+  {
+    "report_id": "10005180",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-12",
+    "serious": true,
+    "outcome": [
+      "hospitalization",
+      "other serious outcome"
+    ],
+    "reactions": [
+      "Convulsion",
+      "Drug abuse"
+    ],
+    "patient_age": "17-months-old",
+    "patient_sex": "male",
+    "has_narrative": false,
+    "chunk_text": "17-months-old male patient reported Convulsion, Drug abuse following use of IBUPROFEN. Outcome: serious \u2014 hospitalization, other serious outcome. Reported: 2014-03-12. Report ID: 10005180."
+  },
+  {
+    "report_id": "10005362",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-13",
+    "serious": true,
+    "outcome": [
+      "other serious outcome"
+    ],
+    "reactions": [
+      "Gastrointestinal disorder",
+      "Dyspepsia",
+      "Anaemia"
+    ],
+    "patient_age": null,
+    "patient_sex": "unknown",
+    "has_narrative": false,
+    "chunk_text": "Patient patient reported Gastrointestinal disorder, Dyspepsia, Anaemia following use of IBUPROFEN. Outcome: serious \u2014 other serious outcome. Reported: 2014-03-13. Report ID: 10005362."
+  },
+  {
+    "report_id": "10005860",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-13",
+    "serious": true,
+    "outcome": [
+      "hospitalization"
+    ],
+    "reactions": [
+      "Drug-induced liver injury"
+    ],
+    "patient_age": "56-months-old",
+    "patient_sex": "male",
+    "has_narrative": false,
+    "chunk_text": "56-months-old male patient reported Drug-induced liver injury following use of IBUPROFEN. Outcome: serious \u2014 hospitalization. Reported: 2014-03-13. Report ID: 10005860."
+  },
+  {
+    "report_id": "10005978",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-13",
+    "serious": true,
+    "outcome": [
+      "hospitalization",
+      "life-threatening"
+    ],
+    "reactions": [
+      "Lethargy",
+      "Weight decreased",
+      "Malaise",
+      "Renal impairment",
+      "Diarrhoea"
+    ],
+    "patient_age": "57-months-old",
+    "patient_sex": "female",
+    "has_narrative": false,
+    "chunk_text": "57-months-old female patient reported Lethargy, Weight decreased, Malaise, Renal impairment, Diarrhoea following use of IBUPROFEN. Outcome: serious \u2014 hospitalization, life-threatening. Reported: 2014-03-13. Report ID: 10005978."
+  },
+  {
+    "report_id": "10005987",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-13",
+    "serious": true,
+    "outcome": [
+      "other serious outcome"
+    ],
+    "reactions": [
+      "Tinnitus",
+      "Feeling abnormal",
+      "Dizziness",
+      "Hearing impaired",
+      "Deafness",
+      "Body temperature decreased",
+      "Restlessness",
+      "Abdominal distension",
+      "Quality of life decreased",
+      "Eating disorder",
+      "Insomnia",
+      "Visual acuity reduced",
+      "Asthenia",
+      "Gastric ulcer",
+      "Ear discomfort"
+    ],
+    "patient_age": null,
+    "patient_sex": "male",
+    "has_narrative": false,
+    "chunk_text": "Male patient reported Tinnitus, Feeling abnormal, Dizziness, Hearing impaired, Deafness, Body temperature decreased, Restlessness, Abdominal distension, Quality of life decreased, Eating disorder, Insomnia, Visual acuity reduced, Asthenia, Gastric ulcer, Ear discomfort following use of IBUPROFEN. Outcome: serious \u2014 other serious outcome. Reported: 2014-03-13. Report ID: 10005987."
+  },
+  {
+    "report_id": "10006199",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-12",
+    "serious": true,
+    "outcome": [
+      "other serious outcome"
+    ],
+    "reactions": [
+      "Drug interaction",
+      "Breast cancer"
+    ],
+    "patient_age": null,
+    "patient_sex": "female",
+    "has_narrative": false,
+    "chunk_text": "Female patient reported Drug interaction, Breast cancer following use of IBUPROFEN. Outcome: serious \u2014 other serious outcome. Reported: 2014-03-12. Report ID: 10006199."
+  },
+  {
+    "report_id": "10006726",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-13",
+    "serious": true,
+    "outcome": [
+      "hospitalization"
+    ],
+    "reactions": [
+      "Haemoptysis",
+      "Pulmonary haemorrhage"
+    ],
+    "patient_age": "18-months-old",
+    "patient_sex": "male",
+    "has_narrative": false,
+    "chunk_text": "18-months-old male patient reported Haemoptysis, Pulmonary haemorrhage following use of IBUPROFEN. Outcome: serious \u2014 hospitalization. Reported: 2014-03-13. Report ID: 10006726."
+  },
+  {
+    "report_id": "10006727",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-13",
+    "serious": true,
+    "outcome": [
+      "other serious outcome"
+    ],
+    "reactions": [
+      "Hypoaesthesia oral",
+      "Hypoaesthesia"
+    ],
+    "patient_age": "24-months-old",
+    "patient_sex": "female",
+    "has_narrative": false,
+    "chunk_text": "24-months-old female patient reported Hypoaesthesia oral, Hypoaesthesia following use of IBUPROFEN. Outcome: serious \u2014 other serious outcome. Reported: 2014-03-13. Report ID: 10006727."
+  },
+  {
+    "report_id": "10006730",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-13",
+    "serious": true,
+    "outcome": [
+      "hospitalization"
+    ],
+    "reactions": [
+      "Renal failure acute"
+    ],
+    "patient_age": "15-months-old",
+    "patient_sex": "male",
+    "has_narrative": false,
+    "chunk_text": "15-months-old male patient reported Renal failure acute following use of IBUPROFEN. Outcome: serious \u2014 hospitalization. Reported: 2014-03-13. Report ID: 10006730."
+  },
+  {
+    "report_id": "10007041",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-11",
+    "serious": true,
+    "outcome": [
+      "other serious outcome"
+    ],
+    "reactions": [
+      "Drug hypersensitivity",
+      "Haemorrhage"
+    ],
+    "patient_age": "62-months-old",
+    "patient_sex": "female",
+    "has_narrative": false,
+    "chunk_text": "62-months-old female patient reported Drug hypersensitivity, Haemorrhage following use of IBUPROFEN. Outcome: serious \u2014 other serious outcome. Reported: 2014-03-11. Report ID: 10007041."
+  },
+  {
+    "report_id": "10007445",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-13",
+    "serious": true,
+    "outcome": [
+      "hospitalization"
+    ],
+    "reactions": [
+      "Gastroenteritis viral"
+    ],
+    "patient_age": "80-months-old",
+    "patient_sex": "male",
+    "has_narrative": false,
+    "chunk_text": "80-months-old male patient reported Gastroenteritis viral following use of IBUPROFEN. Outcome: serious \u2014 hospitalization. Reported: 2014-03-13. Report ID: 10007445."
+  },
+  {
+    "report_id": "10007857",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-11",
+    "serious": true,
+    "outcome": [
+      "other serious outcome"
+    ],
+    "reactions": [
+      "Nephrolithiasis",
+      "Gastric ulcer",
+      "Gout",
+      "Chromaturia"
+    ],
+    "patient_age": "32-months-old",
+    "patient_sex": "male",
+    "has_narrative": false,
+    "chunk_text": "32-months-old male patient reported Nephrolithiasis, Gastric ulcer, Gout, Chromaturia following use of IBUPROFEN. Outcome: serious \u2014 other serious outcome. Reported: 2014-03-11. Report ID: 10007857."
+  },
+  {
+    "report_id": "10008276",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-13",
+    "serious": true,
+    "outcome": [
+      "other serious outcome"
+    ],
+    "reactions": [
+      "Nephrocalcinosis",
+      "Renal tubular acidosis",
+      "Drug abuse"
+    ],
+    "patient_age": "44-months-old",
+    "patient_sex": "female",
+    "has_narrative": false,
+    "chunk_text": "44-months-old female patient reported Nephrocalcinosis, Renal tubular acidosis, Drug abuse following use of IBUPROFEN. Outcome: serious \u2014 other serious outcome. Reported: 2014-03-13. Report ID: 10008276."
+  },
+  {
+    "report_id": "10008851",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-13",
+    "serious": true,
+    "outcome": [
+      "other serious outcome"
+    ],
+    "reactions": [
+      "Renal disorder",
+      "Incorrect dose administered"
+    ],
+    "patient_age": "88-months-old",
+    "patient_sex": "male",
+    "has_narrative": false,
+    "chunk_text": "88-months-old male patient reported Renal disorder, Incorrect dose administered following use of IBUPROFEN. Outcome: serious \u2014 other serious outcome. Reported: 2014-03-13. Report ID: 10008851."
+  },
+  {
+    "report_id": "10008856",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-13",
+    "serious": true,
+    "outcome": [
+      "other serious outcome"
+    ],
+    "reactions": [
+      "Skin depigmentation",
+      "Lumbar vertebral fracture",
+      "Fracture pain"
+    ],
+    "patient_age": null,
+    "patient_sex": "female",
+    "has_narrative": false,
+    "chunk_text": "Female patient reported Skin depigmentation, Lumbar vertebral fracture, Fracture pain following use of IBUPROFEN. Outcome: serious \u2014 other serious outcome. Reported: 2014-03-13. Report ID: 10008856."
+  },
+  {
+    "report_id": "10009321",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-13",
+    "serious": true,
+    "outcome": [
+      "hospitalization"
+    ],
+    "reactions": [
+      "Acute generalised exanthematous pustulosis",
+      "Rash pustular",
+      "Stomatitis",
+      "Inflammatory pain",
+      "Blister",
+      "Hypophagia",
+      "Skin erosion",
+      "Leukocytosis",
+      "Pyrexia",
+      "Type IV hypersensitivity reaction"
+    ],
+    "patient_age": "29-months-old",
+    "patient_sex": "male",
+    "has_narrative": false,
+    "chunk_text": "29-months-old male patient reported Acute generalised exanthematous pustulosis, Rash pustular, Stomatitis, Inflammatory pain, Blister, Hypophagia, Skin erosion, Leukocytosis, Pyrexia, Type IV hypersensitivity reaction following use of IBUPROFEN. Outcome: serious \u2014 hospitalization. Reported: 2014-03-13. Report ID: 10009321."
+  },
+  {
+    "report_id": "10010045",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-13",
+    "serious": true,
+    "outcome": [
+      "hospitalization",
+      "life-threatening"
+    ],
+    "reactions": [
+      "Diarrhoea",
+      "Renal impairment",
+      "Lethargy",
+      "Weight decreased",
+      "Malaise"
+    ],
+    "patient_age": "57-months-old",
+    "patient_sex": "female",
+    "has_narrative": false,
+    "chunk_text": "57-months-old female patient reported Diarrhoea, Renal impairment, Lethargy, Weight decreased, Malaise following use of IBUPROFEN. Outcome: serious \u2014 hospitalization, life-threatening. Reported: 2014-03-13. Report ID: 10010045."
+  },
+  {
+    "report_id": "10010878",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-14",
+    "serious": true,
+    "outcome": [
+      "hospitalization",
+      "life-threatening"
+    ],
+    "reactions": [
+      "Renal impairment",
+      "Diarrhoea",
+      "Lethargy",
+      "Malaise",
+      "Weight decreased"
+    ],
+    "patient_age": "57-months-old",
+    "patient_sex": "female",
+    "has_narrative": false,
+    "chunk_text": "57-months-old female patient reported Renal impairment, Diarrhoea, Lethargy, Malaise, Weight decreased following use of IBUPROFEN. Outcome: serious \u2014 hospitalization, life-threatening. Reported: 2014-03-14. Report ID: 10010878."
+  },
+  {
+    "report_id": "10010880",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-14",
+    "serious": true,
+    "outcome": [
+      "hospitalization",
+      "life-threatening",
+      "other serious outcome"
+    ],
+    "reactions": [
+      "Stevens-Johnson syndrome",
+      "Hypersensitivity",
+      "Blister",
+      "Consciousness fluctuating",
+      "Dyspnoea",
+      "Eye disorder",
+      "Rash generalised",
+      "Lip discolouration",
+      "Chapped lips",
+      "Pain",
+      "Scab",
+      "Scar",
+      "Malaise",
+      "Skin disorder",
+      "Skin exfoliation",
+      "Lip swelling",
+      "Weight decreased",
+      "Off label use"
+    ],
+    "patient_age": "13-months-old",
+    "patient_sex": "male",
+    "has_narrative": false,
+    "chunk_text": "13-months-old male patient reported Stevens-Johnson syndrome, Hypersensitivity, Blister, Consciousness fluctuating, Dyspnoea, Eye disorder, Rash generalised, Lip discolouration, Chapped lips, Pain, Scab, Scar, Malaise, Skin disorder, Skin exfoliation, Lip swelling, Weight decreased, Off label use following use of IBUPROFEN. Outcome: serious \u2014 hospitalization, life-threatening, other serious outcome. Reported: 2014-03-14. Report ID: 10010880."
+  },
+  {
+    "report_id": "10011239",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-12",
+    "serious": true,
+    "outcome": [
+      "other serious outcome"
+    ],
+    "reactions": [
+      "Drug interaction",
+      "Breast cancer female"
+    ],
+    "patient_age": null,
+    "patient_sex": "female",
+    "has_narrative": false,
+    "chunk_text": "Female patient reported Drug interaction, Breast cancer female following use of IBUPROFEN. Outcome: serious \u2014 other serious outcome. Reported: 2014-03-12. Report ID: 10011239."
+  },
+  {
+    "report_id": "10012099",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-12",
+    "serious": true,
+    "outcome": [
+      "hospitalization"
+    ],
+    "reactions": [
+      "Incorrect dose administered"
+    ],
+    "patient_age": "15-months-old",
+    "patient_sex": "female",
+    "has_narrative": false,
+    "chunk_text": "15-months-old female patient reported Incorrect dose administered following use of IBUPROFEN. Outcome: serious \u2014 hospitalization. Reported: 2014-03-12. Report ID: 10012099."
+  },
+  {
+    "report_id": "10012202",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-12",
+    "serious": true,
+    "outcome": [
+      "other serious outcome"
+    ],
+    "reactions": [
+      "Pigmentation disorder",
+      "Drug interaction"
+    ],
+    "patient_age": null,
+    "patient_sex": "female",
+    "has_narrative": false,
+    "chunk_text": "Female patient reported Pigmentation disorder, Drug interaction following use of IBUPROFEN. Outcome: serious \u2014 other serious outcome. Reported: 2014-03-12. Report ID: 10012202."
+  },
+  {
+    "report_id": "10012206",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-14",
+    "serious": true,
+    "outcome": [
+      "other serious outcome"
+    ],
+    "reactions": [
+      "Gastrointestinal disorder",
+      "Iron deficiency anaemia",
+      "Occult blood positive",
+      "Erythema",
+      "Intestinal ulcer"
+    ],
+    "patient_age": "67-months-old",
+    "patient_sex": "male",
+    "has_narrative": false,
+    "chunk_text": "67-months-old male patient reported Gastrointestinal disorder, Iron deficiency anaemia, Occult blood positive, Erythema, Intestinal ulcer following use of IBUPROFEN. Outcome: serious \u2014 other serious outcome. Reported: 2014-03-14. Report ID: 10012206."
+  },
+  {
+    "report_id": "10012430",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-12",
+    "serious": false,
+    "outcome": [],
+    "reactions": [
+      "Drug ineffective",
+      "Arthritis",
+      "Thyroid disorder"
+    ],
+    "patient_age": "73-months-old",
+    "patient_sex": "female",
+    "has_narrative": false,
+    "chunk_text": "73-months-old female patient reported Drug ineffective, Arthritis, Thyroid disorder following use of IBUPROFEN. Outcome: non-serious \u2014 unspecified outcome. Reported: 2014-03-12. Report ID: 10012430."
+  },
+  {
+    "report_id": "10012463",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-14",
+    "serious": true,
+    "outcome": [
+      "hospitalization"
+    ],
+    "reactions": [
+      "Pulmonary haemorrhage",
+      "Haemoptysis"
+    ],
+    "patient_age": "18-months-old",
+    "patient_sex": "male",
+    "has_narrative": false,
+    "chunk_text": "18-months-old male patient reported Pulmonary haemorrhage, Haemoptysis following use of IBUPROFEN. Outcome: serious \u2014 hospitalization. Reported: 2014-03-14. Report ID: 10012463."
+  },
+  {
+    "report_id": "10012542",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-14",
+    "serious": true,
+    "outcome": [
+      "hospitalization"
+    ],
+    "reactions": [
+      "Syncope",
+      "Vomiting",
+      "Nausea",
+      "Orthostatic hypotension"
+    ],
+    "patient_age": "68-months-old",
+    "patient_sex": "female",
+    "has_narrative": false,
+    "chunk_text": "68-months-old female patient reported Syncope, Vomiting, Nausea, Orthostatic hypotension following use of IBUPROFEN. Outcome: serious \u2014 hospitalization. Reported: 2014-03-14. Report ID: 10012542."
+  },
+  {
+    "report_id": "10012654",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-14",
+    "serious": true,
+    "outcome": [
+      "death"
+    ],
+    "reactions": [
+      "Pulmonary haemorrhage",
+      "Haemorrhagic erosive gastritis"
+    ],
+    "patient_age": "13-months-old",
+    "patient_sex": "female",
+    "has_narrative": false,
+    "chunk_text": "13-months-old female patient reported Pulmonary haemorrhage, Haemorrhagic erosive gastritis following use of IBUPROFEN. Outcome: serious \u2014 death. Reported: 2014-03-14. Report ID: 10012654."
+  },
+  {
+    "report_id": "10012655",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-14",
+    "serious": true,
+    "outcome": [
+      "hospitalization"
+    ],
+    "reactions": [
+      "Gastric ulcer perforation",
+      "Liver abscess",
+      "Drug abuse",
+      "Inflammatory bowel disease"
+    ],
+    "patient_age": "15-months-old",
+    "patient_sex": "male",
+    "has_narrative": false,
+    "chunk_text": "15-months-old male patient reported Gastric ulcer perforation, Liver abscess, Drug abuse, Inflammatory bowel disease following use of IBUPROFEN. Outcome: serious \u2014 hospitalization. Reported: 2014-03-14. Report ID: 10012655."
+  },
+  {
+    "report_id": "10012911",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-14",
+    "serious": true,
+    "outcome": [
+      "hospitalization"
+    ],
+    "reactions": [
+      "Tongue oedema",
+      "Eyelid oedema",
+      "Lip oedema",
+      "Rash",
+      "Localised oedema"
+    ],
+    "patient_age": "79-months-old",
+    "patient_sex": "female",
+    "has_narrative": false,
+    "chunk_text": "79-months-old female patient reported Tongue oedema, Eyelid oedema, Lip oedema, Rash, Localised oedema following use of IBUPROFEN. Outcome: serious \u2014 hospitalization. Reported: 2014-03-14. Report ID: 10012911."
+  },
+  {
+    "report_id": "10013922",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-16",
+    "serious": true,
+    "outcome": [
+      "hospitalization"
+    ],
+    "reactions": [
+      "Depression",
+      "Exposure during pregnancy",
+      "Intentional overdose"
+    ],
+    "patient_age": "17-months-old",
+    "patient_sex": "female",
+    "has_narrative": false,
+    "chunk_text": "17-months-old female patient reported Depression, Exposure during pregnancy, Intentional overdose following use of IBUPROFEN. Outcome: serious \u2014 hospitalization. Reported: 2014-03-16. Report ID: 10013922."
+  },
+  {
+    "report_id": "10014471",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-17",
+    "serious": true,
+    "outcome": [
+      "hospitalization",
+      "life-threatening",
+      "other serious outcome"
+    ],
+    "reactions": [
+      "Weight decreased",
+      "Eye disorder",
+      "Lip discolouration",
+      "Blister",
+      "Stevens-Johnson syndrome",
+      "Hypersensitivity",
+      "Skin exfoliation",
+      "Dyspnoea",
+      "Product use issue",
+      "Scar",
+      "Scab",
+      "Pain",
+      "Rash generalised",
+      "Consciousness fluctuating",
+      "Skin disorder",
+      "Malaise",
+      "Lip swelling"
+    ],
+    "patient_age": "13-months-old",
+    "patient_sex": "male",
+    "has_narrative": false,
+    "chunk_text": "13-months-old male patient reported Weight decreased, Eye disorder, Lip discolouration, Blister, Stevens-Johnson syndrome, Hypersensitivity, Skin exfoliation, Dyspnoea, Product use issue, Scar, Scab, Pain, Rash generalised, Consciousness fluctuating, Skin disorder, Malaise, Lip swelling following use of IBUPROFEN. Outcome: serious \u2014 hospitalization, life-threatening, other serious outcome. Reported: 2014-03-17. Report ID: 10014471."
+  },
+  {
+    "report_id": "10015225",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-17",
+    "serious": false,
+    "outcome": [],
+    "reactions": [
+      "Drug hypersensitivity",
+      "Drug eruption"
+    ],
+    "patient_age": "53-months-old",
+    "patient_sex": "female",
+    "has_narrative": false,
+    "chunk_text": "53-months-old female patient reported Drug hypersensitivity, Drug eruption following use of IBUPROFEN. Outcome: non-serious \u2014 unspecified outcome. Reported: 2014-03-17. Report ID: 10015225."
+  },
+  {
+    "report_id": "10015277",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-17",
+    "serious": false,
+    "outcome": [],
+    "reactions": [
+      "Local swelling"
+    ],
+    "patient_age": "59-months-old",
+    "patient_sex": "female",
+    "has_narrative": false,
+    "chunk_text": "59-months-old female patient reported Local swelling following use of IBUPROFEN. Outcome: non-serious \u2014 unspecified outcome. Reported: 2014-03-17. Report ID: 10015277."
+  },
+  {
+    "report_id": "10015719",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-17",
+    "serious": false,
+    "outcome": [],
+    "reactions": [
+      "Drug hypersensitivity"
+    ],
+    "patient_age": "72-months-old",
+    "patient_sex": "male",
+    "has_narrative": false,
+    "chunk_text": "72-months-old male patient reported Drug hypersensitivity following use of IBUPROFEN. Outcome: non-serious \u2014 unspecified outcome. Reported: 2014-03-17. Report ID: 10015719."
+  },
+  {
+    "report_id": "10016161",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-17",
+    "serious": true,
+    "outcome": [
+      "death",
+      "other serious outcome"
+    ],
+    "reactions": [
+      "Pulmonary haemorrhage",
+      "Haemorrhagic erosive gastritis"
+    ],
+    "patient_age": "13-months-old",
+    "patient_sex": "female",
+    "has_narrative": false,
+    "chunk_text": "13-months-old female patient reported Pulmonary haemorrhage, Haemorrhagic erosive gastritis following use of IBUPROFEN. Outcome: serious \u2014 death, other serious outcome. Reported: 2014-03-17. Report ID: 10016161."
+  },
+  {
+    "report_id": "10016367",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-17",
+    "serious": false,
+    "outcome": [],
+    "reactions": [
+      "Drug hypersensitivity"
+    ],
+    "patient_age": "56-months-old",
+    "patient_sex": "female",
+    "has_narrative": false,
+    "chunk_text": "56-months-old female patient reported Drug hypersensitivity following use of IBUPROFEN. Outcome: non-serious \u2014 unspecified outcome. Reported: 2014-03-17. Report ID: 10016367."
+  },
+  {
+    "report_id": "10017462",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-18",
+    "serious": true,
+    "outcome": [
+      "other serious outcome"
+    ],
+    "reactions": [
+      "Viral infection",
+      "Asthma",
+      "Cough"
+    ],
+    "patient_age": "52-months-old",
+    "patient_sex": "male",
+    "has_narrative": false,
+    "chunk_text": "52-months-old male patient reported Viral infection, Asthma, Cough following use of IBUPROFEN. Outcome: serious \u2014 other serious outcome. Reported: 2014-03-18. Report ID: 10017462."
+  },
+  {
+    "report_id": "10017463",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-18",
+    "serious": true,
+    "outcome": [
+      "hospitalization"
+    ],
+    "reactions": [
+      "Scrotal abscess"
+    ],
+    "patient_age": "42-months-old",
+    "patient_sex": "male",
+    "has_narrative": false,
+    "chunk_text": "42-months-old male patient reported Scrotal abscess following use of IBUPROFEN. Outcome: serious \u2014 hospitalization. Reported: 2014-03-18. Report ID: 10017463."
+  },
+  {
+    "report_id": "10018014",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-18",
+    "serious": true,
+    "outcome": [
+      "other serious outcome"
+    ],
+    "reactions": [
+      "Renal failure",
+      "Blindness",
+      "Erosive oesophagitis",
+      "Blood parathyroid hormone increased"
+    ],
+    "patient_age": null,
+    "patient_sex": "female",
+    "has_narrative": false,
+    "chunk_text": "Female patient reported Renal failure, Blindness, Erosive oesophagitis, Blood parathyroid hormone increased following use of IBUPROFEN. Outcome: serious \u2014 other serious outcome. Reported: 2014-03-18. Report ID: 10018014."
+  },
+  {
+    "report_id": "10018391",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-18",
+    "serious": false,
+    "outcome": [],
+    "reactions": [
+      "Hypersensitivity",
+      "Drug ineffective"
+    ],
+    "patient_age": "33-months-old",
+    "patient_sex": "female",
+    "has_narrative": false,
+    "chunk_text": "33-months-old female patient reported Hypersensitivity, Drug ineffective following use of IBUPROFEN. Outcome: non-serious \u2014 unspecified outcome. Reported: 2014-03-18. Report ID: 10018391."
+  },
+  {
+    "report_id": "10018420",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-12",
+    "serious": true,
+    "outcome": [
+      "other serious outcome"
+    ],
+    "reactions": [
+      "Breast cancer",
+      "Drug interaction",
+      "Breast cancer female"
+    ],
+    "patient_age": null,
+    "patient_sex": "female",
+    "has_narrative": false,
+    "chunk_text": "Female patient reported Breast cancer, Drug interaction, Breast cancer female following use of IBUPROFEN. Outcome: serious \u2014 other serious outcome. Reported: 2014-03-12. Report ID: 10018420."
+  },
+  {
+    "report_id": "10018716",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-18",
+    "serious": false,
+    "outcome": [],
+    "reactions": [
+      "Drug hypersensitivity"
+    ],
+    "patient_age": "44-months-old",
+    "patient_sex": "female",
+    "has_narrative": false,
+    "chunk_text": "44-months-old female patient reported Drug hypersensitivity following use of IBUPROFEN. Outcome: non-serious \u2014 unspecified outcome. Reported: 2014-03-18. Report ID: 10018716."
+  },
+  {
+    "report_id": "10019638",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-18",
+    "serious": true,
+    "outcome": [
+      "hospitalization"
+    ],
+    "reactions": [
+      "Pulmonary haemorrhage",
+      "Haemoptysis"
+    ],
+    "patient_age": "18-months-old",
+    "patient_sex": "male",
+    "has_narrative": false,
+    "chunk_text": "18-months-old male patient reported Pulmonary haemorrhage, Haemoptysis following use of IBUPROFEN. Outcome: serious \u2014 hospitalization. Reported: 2014-03-18. Report ID: 10019638."
+  },
+  {
+    "report_id": "10020689",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-19",
+    "serious": true,
+    "outcome": [
+      "other serious outcome"
+    ],
+    "reactions": [
+      "Intentional overdose",
+      "No adverse event"
+    ],
+    "patient_age": "16-months-old",
+    "patient_sex": "female",
+    "has_narrative": false,
+    "chunk_text": "16-months-old female patient reported Intentional overdose, No adverse event following use of IBUPROFEN. Outcome: serious \u2014 other serious outcome. Reported: 2014-03-19. Report ID: 10020689."
+  },
+  {
+    "report_id": "10020798",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-19",
+    "serious": true,
+    "outcome": [
+      "hospitalization"
+    ],
+    "reactions": [
+      "Drug abuse",
+      "Convulsion"
+    ],
+    "patient_age": "17-months-old",
+    "patient_sex": "male",
+    "has_narrative": false,
+    "chunk_text": "17-months-old male patient reported Drug abuse, Convulsion following use of IBUPROFEN. Outcome: serious \u2014 hospitalization. Reported: 2014-03-19. Report ID: 10020798."
+  },
+  {
+    "report_id": "10020838",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-19",
+    "serious": true,
+    "outcome": [
+      "hospitalization",
+      "other serious outcome"
+    ],
+    "reactions": [
+      "Off label use",
+      "Anaphylactic reaction"
+    ],
+    "patient_age": null,
+    "patient_sex": "unknown",
+    "has_narrative": false,
+    "chunk_text": "Patient patient reported Off label use, Anaphylactic reaction following use of IBUPROFEN. Outcome: serious \u2014 hospitalization, other serious outcome. Reported: 2014-03-19. Report ID: 10020838."
+  },
+  {
+    "report_id": "10021216",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-19",
+    "serious": true,
+    "outcome": [
+      "other serious outcome"
+    ],
+    "reactions": [
+      "Musculoskeletal discomfort",
+      "Expired drug administered",
+      "Underdose"
+    ],
+    "patient_age": "67-months-old",
+    "patient_sex": "female",
+    "has_narrative": false,
+    "chunk_text": "67-months-old female patient reported Musculoskeletal discomfort, Expired drug administered, Underdose following use of IBUPROFEN. Outcome: serious \u2014 other serious outcome. Reported: 2014-03-19. Report ID: 10021216."
+  },
+  {
+    "report_id": "10021222",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-18",
+    "serious": true,
+    "outcome": [
+      "other serious outcome"
+    ],
+    "reactions": [
+      "Renal failure acute"
+    ],
+    "patient_age": "86-months-old",
+    "patient_sex": "male",
+    "has_narrative": false,
+    "chunk_text": "86-months-old male patient reported Renal failure acute following use of IBUPROFEN. Outcome: serious \u2014 other serious outcome. Reported: 2014-03-18. Report ID: 10021222."
+  },
+  {
+    "report_id": "10021303",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-19",
+    "serious": true,
+    "outcome": [
+      "other serious outcome"
+    ],
+    "reactions": [
+      "Gastrointestinal disorder"
+    ],
+    "patient_age": "67-months-old",
+    "patient_sex": "male",
+    "has_narrative": false,
+    "chunk_text": "67-months-old male patient reported Gastrointestinal disorder following use of IBUPROFEN. Outcome: serious \u2014 other serious outcome. Reported: 2014-03-19. Report ID: 10021303."
+  },
+  {
+    "report_id": "10021562",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-19",
+    "serious": true,
+    "outcome": [
+      "life-threatening",
+      "disability"
+    ],
+    "reactions": [
+      "Anaphylactic reaction"
+    ],
+    "patient_age": "45-months-old",
+    "patient_sex": "female",
+    "has_narrative": false,
+    "chunk_text": "45-months-old female patient reported Anaphylactic reaction following use of IBUPROFEN. Outcome: serious \u2014 life-threatening, disability. Reported: 2014-03-19. Report ID: 10021562."
+  },
+  {
+    "report_id": "10021909",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-19",
+    "serious": true,
+    "outcome": [
+      "other serious outcome"
+    ],
+    "reactions": [
+      "Haematochezia",
+      "Convulsion",
+      "Abdominal pain",
+      "Loss of consciousness",
+      "Diarrhoea",
+      "Vomiting",
+      "Anti-transglutaminase antibody increased",
+      "Neutrophil count abnormal",
+      "Serum ferritin abnormal",
+      "White blood cell count increased",
+      "Irritable bowel syndrome"
+    ],
+    "patient_age": "32-months-old",
+    "patient_sex": "female",
+    "has_narrative": false,
+    "chunk_text": "32-months-old female patient reported Haematochezia, Convulsion, Abdominal pain, Loss of consciousness, Diarrhoea, Vomiting, Anti-transglutaminase antibody increased, Neutrophil count abnormal, Serum ferritin abnormal, White blood cell count increased, Irritable bowel syndrome following use of IBUPROFEN. Outcome: serious \u2014 other serious outcome. Reported: 2014-03-19. Report ID: 10021909."
+  },
+  {
+    "report_id": "10022326",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-19",
+    "serious": true,
+    "outcome": [
+      "hospitalization",
+      "life-threatening"
+    ],
+    "reactions": [
+      "Diarrhoea",
+      "Renal impairment",
+      "Lethargy",
+      "Malaise",
+      "Weight decreased"
+    ],
+    "patient_age": "57-months-old",
+    "patient_sex": "female",
+    "has_narrative": false,
+    "chunk_text": "57-months-old female patient reported Diarrhoea, Renal impairment, Lethargy, Malaise, Weight decreased following use of IBUPROFEN. Outcome: serious \u2014 hospitalization, life-threatening. Reported: 2014-03-19. Report ID: 10022326."
+  },
+  {
+    "report_id": "10022331",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-19",
+    "serious": true,
+    "outcome": [
+      "hospitalization",
+      "life-threatening",
+      "other serious outcome"
+    ],
+    "reactions": [
+      "Hypersensitivity",
+      "Blister",
+      "Consciousness fluctuating",
+      "Dyspnoea",
+      "Off label use",
+      "Eye disorder",
+      "Rash generalised",
+      "Lip discolouration",
+      "Chapped lips",
+      "Pain",
+      "Scab",
+      "Scar",
+      "Malaise",
+      "Skin disorder",
+      "Skin exfoliation",
+      "Stevens-Johnson syndrome",
+      "Lip swelling",
+      "Weight decreased"
+    ],
+    "patient_age": "13-months-old",
+    "patient_sex": "male",
+    "has_narrative": false,
+    "chunk_text": "13-months-old male patient reported Hypersensitivity, Blister, Consciousness fluctuating, Dyspnoea, Off label use, Eye disorder, Rash generalised, Lip discolouration, Chapped lips, Pain, Scab, Scar, Malaise, Skin disorder, Skin exfoliation, Stevens-Johnson syndrome, Lip swelling, Weight decreased following use of IBUPROFEN. Outcome: serious \u2014 hospitalization, life-threatening, other serious outcome. Reported: 2014-03-19. Report ID: 10022331."
+  },
+  {
+    "report_id": "10022660",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-19",
+    "serious": false,
+    "outcome": [],
+    "reactions": [
+      "Drug hypersensitivity",
+      "Skin reaction"
+    ],
+    "patient_age": "51-months-old",
+    "patient_sex": "female",
+    "has_narrative": false,
+    "chunk_text": "51-months-old female patient reported Drug hypersensitivity, Skin reaction following use of IBUPROFEN. Outcome: non-serious \u2014 unspecified outcome. Reported: 2014-03-19. Report ID: 10022660."
+  },
+  {
+    "report_id": "10022689",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-19",
+    "serious": true,
+    "outcome": [
+      "other serious outcome"
+    ],
+    "reactions": [
+      "Dysgeusia",
+      "Palpitations"
+    ],
+    "patient_age": "44-months-old",
+    "patient_sex": "female",
+    "has_narrative": false,
+    "chunk_text": "44-months-old female patient reported Dysgeusia, Palpitations following use of IBUPROFEN. Outcome: serious \u2014 other serious outcome. Reported: 2014-03-19. Report ID: 10022689."
+  },
+  {
+    "report_id": "10022717",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-19",
+    "serious": false,
+    "outcome": [],
+    "reactions": [
+      "Dyspnoea",
+      "Throat tightness"
+    ],
+    "patient_age": null,
+    "patient_sex": "female",
+    "has_narrative": false,
+    "chunk_text": "Female patient reported Dyspnoea, Throat tightness following use of IBUPROFEN. Outcome: non-serious \u2014 unspecified outcome. Reported: 2014-03-19. Report ID: 10022717."
+  },
+  {
+    "report_id": "10023781",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-20",
+    "serious": true,
+    "outcome": [
+      "other serious outcome"
+    ],
+    "reactions": [
+      "Generalised erythema"
+    ],
+    "patient_age": "53-months-old",
+    "patient_sex": "male",
+    "has_narrative": false,
+    "chunk_text": "53-months-old male patient reported Generalised erythema following use of IBUPROFEN. Outcome: serious \u2014 other serious outcome. Reported: 2014-03-20. Report ID: 10023781."
+  },
+  {
+    "report_id": "10024133",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-20",
+    "serious": false,
+    "outcome": [],
+    "reactions": [
+      "Drug hypersensitivity"
+    ],
+    "patient_age": "77-months-old",
+    "patient_sex": "female",
+    "has_narrative": false,
+    "chunk_text": "77-months-old female patient reported Drug hypersensitivity following use of IBUPROFEN. Outcome: non-serious \u2014 unspecified outcome. Reported: 2014-03-20. Report ID: 10024133."
+  },
+  {
+    "report_id": "10024924",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-20",
+    "serious": true,
+    "outcome": [
+      "other serious outcome"
+    ],
+    "reactions": [
+      "Angioedema"
+    ],
+    "patient_age": "12-months-old",
+    "patient_sex": "unknown",
+    "has_narrative": false,
+    "chunk_text": "12-months-old patient reported Angioedema following use of IBUPROFEN. Outcome: serious \u2014 other serious outcome. Reported: 2014-03-20. Report ID: 10024924."
+  },
+  {
+    "report_id": "10024928",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-20",
+    "serious": true,
+    "outcome": [
+      "other serious outcome"
+    ],
+    "reactions": [
+      "Angioedema"
+    ],
+    "patient_age": "11-months-old",
+    "patient_sex": "unknown",
+    "has_narrative": false,
+    "chunk_text": "11-months-old patient reported Angioedema following use of IBUPROFEN. Outcome: serious \u2014 other serious outcome. Reported: 2014-03-20. Report ID: 10024928."
+  },
+  {
+    "report_id": "10024931",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-20",
+    "serious": true,
+    "outcome": [
+      "other serious outcome"
+    ],
+    "reactions": [
+      "Angioedema"
+    ],
+    "patient_age": "12-months-old",
+    "patient_sex": "unknown",
+    "has_narrative": false,
+    "chunk_text": "12-months-old patient reported Angioedema following use of IBUPROFEN. Outcome: serious \u2014 other serious outcome. Reported: 2014-03-20. Report ID: 10024931."
+  },
+  {
+    "report_id": "10024944",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-20",
+    "serious": true,
+    "outcome": [
+      "other serious outcome"
+    ],
+    "reactions": [
+      "Angioedema"
+    ],
+    "patient_age": "11-months-old",
+    "patient_sex": "unknown",
+    "has_narrative": false,
+    "chunk_text": "11-months-old patient reported Angioedema following use of IBUPROFEN. Outcome: serious \u2014 other serious outcome. Reported: 2014-03-20. Report ID: 10024944."
+  },
+  {
+    "report_id": "10024951",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-20",
+    "serious": true,
+    "outcome": [
+      "other serious outcome"
+    ],
+    "reactions": [
+      "Angioedema"
+    ],
+    "patient_age": "13-months-old",
+    "patient_sex": "unknown",
+    "has_narrative": false,
+    "chunk_text": "13-months-old patient reported Angioedema following use of IBUPROFEN. Outcome: serious \u2014 other serious outcome. Reported: 2014-03-20. Report ID: 10024951."
+  },
+  {
+    "report_id": "10024953",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-20",
+    "serious": true,
+    "outcome": [
+      "other serious outcome"
+    ],
+    "reactions": [
+      "Angioedema"
+    ],
+    "patient_age": "11-months-old",
+    "patient_sex": "unknown",
+    "has_narrative": false,
+    "chunk_text": "11-months-old patient reported Angioedema following use of IBUPROFEN. Outcome: serious \u2014 other serious outcome. Reported: 2014-03-20. Report ID: 10024953."
+  },
+  {
+    "report_id": "10025190",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-20",
+    "serious": true,
+    "outcome": [
+      "other serious outcome"
+    ],
+    "reactions": [
+      "Abdominal pain",
+      "Gastric ulcer",
+      "Vomiting"
+    ],
+    "patient_age": "27-months-old",
+    "patient_sex": "female",
+    "has_narrative": false,
+    "chunk_text": "27-months-old female patient reported Abdominal pain, Gastric ulcer, Vomiting following use of IBUPROFEN. Outcome: serious \u2014 other serious outcome. Reported: 2014-03-20. Report ID: 10025190."
+  },
+  {
+    "report_id": "10025428",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-02-28",
+    "serious": true,
+    "outcome": [
+      "other serious outcome"
+    ],
+    "reactions": [
+      "Drug hypersensitivity"
+    ],
+    "patient_age": "62-months-old",
+    "patient_sex": "female",
+    "has_narrative": false,
+    "chunk_text": "62-months-old female patient reported Drug hypersensitivity following use of IBUPROFEN. Outcome: serious \u2014 other serious outcome. Reported: 2014-02-28. Report ID: 10025428."
+  },
+  {
+    "report_id": "10025524",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-20",
+    "serious": true,
+    "outcome": [
+      "hospitalization",
+      "life-threatening"
+    ],
+    "reactions": [
+      "Renal impairment",
+      "Lethargy",
+      "Diarrhoea",
+      "Weight decreased",
+      "Malaise"
+    ],
+    "patient_age": "57-months-old",
+    "patient_sex": "female",
+    "has_narrative": false,
+    "chunk_text": "57-months-old female patient reported Renal impairment, Lethargy, Diarrhoea, Weight decreased, Malaise following use of IBUPROFEN. Outcome: serious \u2014 hospitalization, life-threatening. Reported: 2014-03-20. Report ID: 10025524."
+  },
+  {
+    "report_id": "10025628",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-02-28",
+    "serious": true,
+    "outcome": [
+      "other serious outcome"
+    ],
+    "reactions": [
+      "Gastric perforation",
+      "Drug ineffective",
+      "Overdose"
+    ],
+    "patient_age": null,
+    "patient_sex": "female",
+    "has_narrative": false,
+    "chunk_text": "Female patient reported Gastric perforation, Drug ineffective, Overdose following use of IBUPROFEN. Outcome: serious \u2014 other serious outcome. Reported: 2014-02-28. Report ID: 10025628."
+  },
+  {
+    "report_id": "10025798",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-02-28",
+    "serious": true,
+    "outcome": [
+      "other serious outcome"
+    ],
+    "reactions": [
+      "Anaphylactic reaction"
+    ],
+    "patient_age": null,
+    "patient_sex": "female",
+    "has_narrative": false,
+    "chunk_text": "Female patient reported Anaphylactic reaction following use of IBUPROFEN. Outcome: serious \u2014 other serious outcome. Reported: 2014-02-28. Report ID: 10025798."
+  },
+  {
+    "report_id": "10025812",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-02-28",
+    "serious": true,
+    "outcome": [
+      "other serious outcome"
+    ],
+    "reactions": [
+      "Anaphylactic reaction"
+    ],
+    "patient_age": "44-months-old",
+    "patient_sex": "female",
+    "has_narrative": false,
+    "chunk_text": "44-months-old female patient reported Anaphylactic reaction following use of IBUPROFEN. Outcome: serious \u2014 other serious outcome. Reported: 2014-02-28. Report ID: 10025812."
+  },
+  {
+    "report_id": "10025855",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-02-28",
+    "serious": true,
+    "outcome": [
+      "other serious outcome"
+    ],
+    "reactions": [
+      "Haematemesis",
+      "Haemorrhage",
+      "Epistaxis"
+    ],
+    "patient_age": "77-months-old",
+    "patient_sex": "female",
+    "has_narrative": false,
+    "chunk_text": "77-months-old female patient reported Haematemesis, Haemorrhage, Epistaxis following use of IBUPROFEN. Outcome: serious \u2014 other serious outcome. Reported: 2014-02-28. Report ID: 10025855."
+  },
+  {
+    "report_id": "10025872",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-02-28",
+    "serious": true,
+    "outcome": [
+      "hospitalization"
+    ],
+    "reactions": [
+      "Drug hypersensitivity"
+    ],
+    "patient_age": null,
+    "patient_sex": "male",
+    "has_narrative": false,
+    "chunk_text": "Male patient reported Drug hypersensitivity following use of IBUPROFEN. Outcome: serious \u2014 hospitalization. Reported: 2014-02-28. Report ID: 10025872."
+  },
+  {
+    "report_id": "10025944",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-14",
+    "serious": true,
+    "outcome": [
+      "hospitalization"
+    ],
+    "reactions": [
+      "Pancytopenia",
+      "Renal failure",
+      "Erythema",
+      "Lymphadenopathy",
+      "Odynophagia",
+      "Toxicity to various agents",
+      "Leukopenia",
+      "Anaemia",
+      "Thrombocytopenia",
+      "Hypokalaemia",
+      "Hypoproteinaemia",
+      "Mouth ulceration",
+      "Medication error",
+      "Herpes virus infection",
+      "Pyrexia",
+      "Vomiting",
+      "Toxicity to various agents"
+    ],
+    "patient_age": "53-months-old",
+    "patient_sex": "female",
+    "has_narrative": false,
+    "chunk_text": "53-months-old female patient reported Pancytopenia, Renal failure, Erythema, Lymphadenopathy, Odynophagia, Toxicity to various agents, Leukopenia, Anaemia, Thrombocytopenia, Hypokalaemia, Hypoproteinaemia, Mouth ulceration, Medication error, Herpes virus infection, Pyrexia, Vomiting, Toxicity to various agents following use of IBUPROFEN. Outcome: serious \u2014 hospitalization. Reported: 2014-03-14. Report ID: 10025944."
+  },
+  {
+    "report_id": "10026052",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-20",
+    "serious": true,
+    "outcome": [
+      "hospitalization"
+    ],
+    "reactions": [
+      "Acute generalised exanthematous pustulosis"
+    ],
+    "patient_age": "29-months-old",
+    "patient_sex": "male",
+    "has_narrative": false,
+    "chunk_text": "29-months-old male patient reported Acute generalised exanthematous pustulosis following use of IBUPROFEN. Outcome: serious \u2014 hospitalization. Reported: 2014-03-20. Report ID: 10026052."
+  },
+  {
+    "report_id": "10027031",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-21",
+    "serious": true,
+    "outcome": [
+      "hospitalization"
+    ],
+    "reactions": [
+      "Toxicity to various agents",
+      "Acute kidney injury",
+      "Drug interaction"
+    ],
+    "patient_age": "64-months-old",
+    "patient_sex": "male",
+    "has_narrative": false,
+    "chunk_text": "64-months-old male patient reported Toxicity to various agents, Acute kidney injury, Drug interaction following use of IBUPROFEN. Outcome: serious \u2014 hospitalization. Reported: 2014-03-21. Report ID: 10027031."
+  },
+  {
+    "report_id": "10027041",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-21",
+    "serious": true,
+    "outcome": [
+      "hospitalization"
+    ],
+    "reactions": [
+      "Laboratory test abnormal",
+      "Drug ineffective"
+    ],
+    "patient_age": "62-months-old",
+    "patient_sex": "male",
+    "has_narrative": false,
+    "chunk_text": "62-months-old male patient reported Laboratory test abnormal, Drug ineffective following use of IBUPROFEN. Outcome: serious \u2014 hospitalization. Reported: 2014-03-21. Report ID: 10027041."
+  },
+  {
+    "report_id": "10027363",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-21",
+    "serious": true,
+    "outcome": [
+      "hospitalization"
+    ],
+    "reactions": [
+      "Anaphylactic reaction",
+      "Cough",
+      "Wheezing",
+      "Sneezing",
+      "Rhinorrhoea",
+      "Periorbital oedema",
+      "Erythema",
+      "Urticaria"
+    ],
+    "patient_age": null,
+    "patient_sex": "male",
+    "has_narrative": false,
+    "chunk_text": "Male patient reported Anaphylactic reaction, Cough, Wheezing, Sneezing, Rhinorrhoea, Periorbital oedema, Erythema, Urticaria following use of IBUPROFEN. Outcome: serious \u2014 hospitalization. Reported: 2014-03-21. Report ID: 10027363."
+  },
+  {
+    "report_id": "10027364",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-21",
+    "serious": true,
+    "outcome": [
+      "hospitalization"
+    ],
+    "reactions": [
+      "Anaphylactic reaction"
+    ],
+    "patient_age": null,
+    "patient_sex": "unknown",
+    "has_narrative": false,
+    "chunk_text": "Patient patient reported Anaphylactic reaction following use of IBUPROFEN. Outcome: serious \u2014 hospitalization. Reported: 2014-03-21. Report ID: 10027364."
+  },
+  {
+    "report_id": "10027365",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-21",
+    "serious": true,
+    "outcome": [
+      "hospitalization"
+    ],
+    "reactions": [
+      "Anaphylactic reaction"
+    ],
+    "patient_age": null,
+    "patient_sex": "unknown",
+    "has_narrative": false,
+    "chunk_text": "Patient patient reported Anaphylactic reaction following use of IBUPROFEN. Outcome: serious \u2014 hospitalization. Reported: 2014-03-21. Report ID: 10027365."
+  },
+  {
+    "report_id": "10027519",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-18",
+    "serious": true,
+    "outcome": [
+      "life-threatening"
+    ],
+    "reactions": [
+      "Hypomagnesaemia",
+      "Hypokalaemia",
+      "Torsade de pointes"
+    ],
+    "patient_age": "34-months-old",
+    "patient_sex": "female",
+    "has_narrative": false,
+    "chunk_text": "34-months-old female patient reported Hypomagnesaemia, Hypokalaemia, Torsade de pointes following use of IBUPROFEN. Outcome: serious \u2014 life-threatening. Reported: 2014-03-18. Report ID: 10027519."
+  },
+  {
+    "report_id": "10027529",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-21",
+    "serious": false,
+    "outcome": [],
+    "reactions": [
+      "Drug hypersensitivity"
+    ],
+    "patient_age": "46-months-old",
+    "patient_sex": "female",
+    "has_narrative": false,
+    "chunk_text": "46-months-old female patient reported Drug hypersensitivity following use of IBUPROFEN. Outcome: non-serious \u2014 unspecified outcome. Reported: 2014-03-21. Report ID: 10027529."
+  },
+  {
+    "report_id": "10027580",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-21",
+    "serious": true,
+    "outcome": [
+      "other serious outcome"
+    ],
+    "reactions": [
+      "Aggression",
+      "Drug dependence",
+      "Judgement impaired",
+      "Substance abuse"
+    ],
+    "patient_age": "22-months-old",
+    "patient_sex": "male",
+    "has_narrative": false,
+    "chunk_text": "22-months-old male patient reported Aggression, Drug dependence, Judgement impaired, Substance abuse following use of IBUPROFEN. Outcome: serious \u2014 other serious outcome. Reported: 2014-03-21. Report ID: 10027580."
+  },
+  {
+    "report_id": "10027616",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-21",
+    "serious": true,
+    "outcome": [
+      "hospitalization"
+    ],
+    "reactions": [
+      "Suicide attempt",
+      "Anxiety",
+      "Restlessness"
+    ],
+    "patient_age": "75-months-old",
+    "patient_sex": "female",
+    "has_narrative": false,
+    "chunk_text": "75-months-old female patient reported Suicide attempt, Anxiety, Restlessness following use of IBUPROFEN. Outcome: serious \u2014 hospitalization. Reported: 2014-03-21. Report ID: 10027616."
+  },
+  {
+    "report_id": "10027857",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-21",
+    "serious": true,
+    "outcome": [
+      "other serious outcome"
+    ],
+    "reactions": [
+      "Angioedema",
+      "Asthma"
+    ],
+    "patient_age": "9-months-old",
+    "patient_sex": "unknown",
+    "has_narrative": false,
+    "chunk_text": "9-months-old patient reported Angioedema, Asthma following use of IBUPROFEN. Outcome: serious \u2014 other serious outcome. Reported: 2014-03-21. Report ID: 10027857."
+  },
+  {
+    "report_id": "10027858",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-21",
+    "serious": true,
+    "outcome": [
+      "other serious outcome"
+    ],
+    "reactions": [
+      "Angioedema",
+      "Asthma",
+      "Conjunctivitis"
+    ],
+    "patient_age": "9-months-old",
+    "patient_sex": "unknown",
+    "has_narrative": false,
+    "chunk_text": "9-months-old patient reported Angioedema, Asthma, Conjunctivitis following use of IBUPROFEN. Outcome: serious \u2014 other serious outcome. Reported: 2014-03-21. Report ID: 10027858."
+  },
+  {
+    "report_id": "10027860",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-21",
+    "serious": true,
+    "outcome": [
+      "other serious outcome"
+    ],
+    "reactions": [
+      "Angioedema"
+    ],
+    "patient_age": "14-months-old",
+    "patient_sex": "unknown",
+    "has_narrative": false,
+    "chunk_text": "14-months-old patient reported Angioedema following use of IBUPROFEN. Outcome: serious \u2014 other serious outcome. Reported: 2014-03-21. Report ID: 10027860."
+  },
+  {
+    "report_id": "10027862",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-21",
+    "serious": true,
+    "outcome": [
+      "other serious outcome"
+    ],
+    "reactions": [
+      "Angioedema"
+    ],
+    "patient_age": "13-months-old",
+    "patient_sex": "unknown",
+    "has_narrative": false,
+    "chunk_text": "13-months-old patient reported Angioedema following use of IBUPROFEN. Outcome: serious \u2014 other serious outcome. Reported: 2014-03-21. Report ID: 10027862."
+  },
+  {
+    "report_id": "10027864",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-21",
+    "serious": true,
+    "outcome": [
+      "other serious outcome"
+    ],
+    "reactions": [
+      "Angioedema"
+    ],
+    "patient_age": "12-months-old",
+    "patient_sex": "unknown",
+    "has_narrative": false,
+    "chunk_text": "12-months-old patient reported Angioedema following use of IBUPROFEN. Outcome: serious \u2014 other serious outcome. Reported: 2014-03-21. Report ID: 10027864."
+  },
+  {
+    "report_id": "10027876",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-21",
+    "serious": true,
+    "outcome": [
+      "other serious outcome"
+    ],
+    "reactions": [
+      "Angioedema",
+      "Lip oedema"
+    ],
+    "patient_age": "10-months-old",
+    "patient_sex": "unknown",
+    "has_narrative": false,
+    "chunk_text": "10-months-old patient reported Angioedema, Lip oedema following use of IBUPROFEN. Outcome: serious \u2014 other serious outcome. Reported: 2014-03-21. Report ID: 10027876."
+  },
+  {
+    "report_id": "10027890",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-21",
+    "serious": true,
+    "outcome": [
+      "other serious outcome"
+    ],
+    "reactions": [
+      "Angioedema"
+    ],
+    "patient_age": "9-months-old",
+    "patient_sex": "unknown",
+    "has_narrative": false,
+    "chunk_text": "9-months-old patient reported Angioedema following use of IBUPROFEN. Outcome: serious \u2014 other serious outcome. Reported: 2014-03-21. Report ID: 10027890."
+  },
+  {
+    "report_id": "10027893",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-21",
+    "serious": true,
+    "outcome": [
+      "other serious outcome"
+    ],
+    "reactions": [
+      "Angioedema"
+    ],
+    "patient_age": "12-months-old",
+    "patient_sex": "unknown",
+    "has_narrative": false,
+    "chunk_text": "12-months-old patient reported Angioedema following use of IBUPROFEN. Outcome: serious \u2014 other serious outcome. Reported: 2014-03-21. Report ID: 10027893."
+  },
+  {
+    "report_id": "10027899",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-21",
+    "serious": true,
+    "outcome": [
+      "other serious outcome"
+    ],
+    "reactions": [
+      "Angioedema"
+    ],
+    "patient_age": "12-months-old",
+    "patient_sex": "unknown",
+    "has_narrative": false,
+    "chunk_text": "12-months-old patient reported Angioedema following use of IBUPROFEN. Outcome: serious \u2014 other serious outcome. Reported: 2014-03-21. Report ID: 10027899."
+  },
+  {
+    "report_id": "10027911",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-21",
+    "serious": true,
+    "outcome": [
+      "other serious outcome"
+    ],
+    "reactions": [
+      "Angioedema"
+    ],
+    "patient_age": "13-months-old",
+    "patient_sex": "unknown",
+    "has_narrative": false,
+    "chunk_text": "13-months-old patient reported Angioedema following use of IBUPROFEN. Outcome: serious \u2014 other serious outcome. Reported: 2014-03-21. Report ID: 10027911."
+  },
+  {
+    "report_id": "10027912",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-21",
+    "serious": true,
+    "outcome": [
+      "other serious outcome"
+    ],
+    "reactions": [
+      "Angioedema"
+    ],
+    "patient_age": "14-months-old",
+    "patient_sex": "unknown",
+    "has_narrative": false,
+    "chunk_text": "14-months-old patient reported Angioedema following use of IBUPROFEN. Outcome: serious \u2014 other serious outcome. Reported: 2014-03-21. Report ID: 10027912."
+  },
+  {
+    "report_id": "10028598",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-21",
+    "serious": true,
+    "outcome": [
+      "hospitalization"
+    ],
+    "reactions": [
+      "Perforated ulcer",
+      "Fatigue",
+      "Malaise",
+      "Vomiting",
+      "Cough",
+      "Asthenia",
+      "Drug ineffective"
+    ],
+    "patient_age": null,
+    "patient_sex": "female",
+    "has_narrative": false,
+    "chunk_text": "Female patient reported Perforated ulcer, Fatigue, Malaise, Vomiting, Cough, Asthenia, Drug ineffective following use of IBUPROFEN. Outcome: serious \u2014 hospitalization. Reported: 2014-03-21. Report ID: 10028598."
+  },
+  {
+    "report_id": "10028815",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-21",
+    "serious": true,
+    "outcome": [
+      "other serious outcome"
+    ],
+    "reactions": [
+      "Drug dependence",
+      "Drug tolerance"
+    ],
+    "patient_age": "11-months-old",
+    "patient_sex": "male",
+    "has_narrative": false,
+    "chunk_text": "11-months-old male patient reported Drug dependence, Drug tolerance following use of IBUPROFEN. Outcome: serious \u2014 other serious outcome. Reported: 2014-03-21. Report ID: 10028815."
+  },
+  {
+    "report_id": "10028941",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-21",
+    "serious": true,
+    "outcome": [
+      "other serious outcome"
+    ],
+    "reactions": [
+      "Blood creatine phosphokinase increased",
+      "Nasopharyngitis",
+      "Pyrexia",
+      "Rash generalised",
+      "Thrombocytopenia"
+    ],
+    "patient_age": "43-months-old",
+    "patient_sex": "male",
+    "has_narrative": false,
+    "chunk_text": "43-months-old male patient reported Blood creatine phosphokinase increased, Nasopharyngitis, Pyrexia, Rash generalised, Thrombocytopenia following use of IBUPROFEN. Outcome: serious \u2014 other serious outcome. Reported: 2014-03-21. Report ID: 10028941."
+  },
+  {
+    "report_id": "10028961",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-21",
+    "serious": true,
+    "outcome": [
+      "hospitalization"
+    ],
+    "reactions": [
+      "Asthmatic crisis",
+      "Dyspnoea"
+    ],
+    "patient_age": "35-months-old",
+    "patient_sex": "male",
+    "has_narrative": false,
+    "chunk_text": "35-months-old male patient reported Asthmatic crisis, Dyspnoea following use of IBUPROFEN. Outcome: serious \u2014 hospitalization. Reported: 2014-03-21. Report ID: 10028961."
+  },
+  {
+    "report_id": "10028995",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-21",
+    "serious": true,
+    "outcome": [
+      "other serious outcome"
+    ],
+    "reactions": [
+      "Angioedema",
+      "Urticaria"
+    ],
+    "patient_age": "12-months-old",
+    "patient_sex": "unknown",
+    "has_narrative": false,
+    "chunk_text": "12-months-old patient reported Angioedema, Urticaria following use of IBUPROFEN. Outcome: serious \u2014 other serious outcome. Reported: 2014-03-21. Report ID: 10028995."
+  },
+  {
+    "report_id": "10029022",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-21",
+    "serious": true,
+    "outcome": [
+      "other serious outcome"
+    ],
+    "reactions": [
+      "Angioedema",
+      "Conjunctivitis"
+    ],
+    "patient_age": "14-months-old",
+    "patient_sex": "unknown",
+    "has_narrative": false,
+    "chunk_text": "14-months-old patient reported Angioedema, Conjunctivitis following use of IBUPROFEN. Outcome: serious \u2014 other serious outcome. Reported: 2014-03-21. Report ID: 10029022."
+  },
+  {
+    "report_id": "10029025",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-21",
+    "serious": true,
+    "outcome": [
+      "other serious outcome"
+    ],
+    "reactions": [
+      "Angioedema",
+      "Conjunctivitis"
+    ],
+    "patient_age": "9-months-old",
+    "patient_sex": "unknown",
+    "has_narrative": false,
+    "chunk_text": "9-months-old patient reported Angioedema, Conjunctivitis following use of IBUPROFEN. Outcome: serious \u2014 other serious outcome. Reported: 2014-03-21. Report ID: 10029025."
+  },
+  {
+    "report_id": "10029028",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-21",
+    "serious": true,
+    "outcome": [
+      "other serious outcome"
+    ],
+    "reactions": [
+      "Angioedema"
+    ],
+    "patient_age": "9-months-old",
+    "patient_sex": "unknown",
+    "has_narrative": false,
+    "chunk_text": "9-months-old patient reported Angioedema following use of IBUPROFEN. Outcome: serious \u2014 other serious outcome. Reported: 2014-03-21. Report ID: 10029028."
+  },
+  {
+    "report_id": "10029029",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-21",
+    "serious": true,
+    "outcome": [
+      "other serious outcome"
+    ],
+    "reactions": [
+      "Angioedema",
+      "Rash"
+    ],
+    "patient_age": "11-months-old",
+    "patient_sex": "unknown",
+    "has_narrative": false,
+    "chunk_text": "11-months-old patient reported Angioedema, Rash following use of IBUPROFEN. Outcome: serious \u2014 other serious outcome. Reported: 2014-03-21. Report ID: 10029029."
+  },
+  {
+    "report_id": "10029032",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-21",
+    "serious": true,
+    "outcome": [
+      "other serious outcome"
+    ],
+    "reactions": [
+      "Angioedema"
+    ],
+    "patient_age": "12-months-old",
+    "patient_sex": "unknown",
+    "has_narrative": false,
+    "chunk_text": "12-months-old patient reported Angioedema following use of IBUPROFEN. Outcome: serious \u2014 other serious outcome. Reported: 2014-03-21. Report ID: 10029032."
+  },
+  {
+    "report_id": "10029038",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-21",
+    "serious": true,
+    "outcome": [
+      "other serious outcome"
+    ],
+    "reactions": [
+      "Angioedema"
+    ],
+    "patient_age": "9-months-old",
+    "patient_sex": "unknown",
+    "has_narrative": false,
+    "chunk_text": "9-months-old patient reported Angioedema following use of IBUPROFEN. Outcome: serious \u2014 other serious outcome. Reported: 2014-03-21. Report ID: 10029038."
+  },
+  {
+    "report_id": "10029041",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-21",
+    "serious": true,
+    "outcome": [
+      "other serious outcome"
+    ],
+    "reactions": [
+      "Angioedema",
+      "Urticaria"
+    ],
+    "patient_age": "9-months-old",
+    "patient_sex": "unknown",
+    "has_narrative": false,
+    "chunk_text": "9-months-old patient reported Angioedema, Urticaria following use of IBUPROFEN. Outcome: serious \u2014 other serious outcome. Reported: 2014-03-21. Report ID: 10029041."
+  },
+  {
+    "report_id": "10029042",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-21",
+    "serious": true,
+    "outcome": [
+      "other serious outcome"
+    ],
+    "reactions": [
+      "Angioedema"
+    ],
+    "patient_age": "12-months-old",
+    "patient_sex": "unknown",
+    "has_narrative": false,
+    "chunk_text": "12-months-old patient reported Angioedema following use of IBUPROFEN. Outcome: serious \u2014 other serious outcome. Reported: 2014-03-21. Report ID: 10029042."
+  },
+  {
+    "report_id": "10029043",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-21",
+    "serious": true,
+    "outcome": [
+      "other serious outcome"
+    ],
+    "reactions": [
+      "Conjunctivitis",
+      "Angioedema"
+    ],
+    "patient_age": "9-months-old",
+    "patient_sex": "unknown",
+    "has_narrative": false,
+    "chunk_text": "9-months-old patient reported Conjunctivitis, Angioedema following use of IBUPROFEN. Outcome: serious \u2014 other serious outcome. Reported: 2014-03-21. Report ID: 10029043."
+  },
+  {
+    "report_id": "10029044",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-21",
+    "serious": true,
+    "outcome": [
+      "other serious outcome"
+    ],
+    "reactions": [
+      "Angioedema",
+      "Urticaria"
+    ],
+    "patient_age": "14-months-old",
+    "patient_sex": "unknown",
+    "has_narrative": false,
+    "chunk_text": "14-months-old patient reported Angioedema, Urticaria following use of IBUPROFEN. Outcome: serious \u2014 other serious outcome. Reported: 2014-03-21. Report ID: 10029044."
+  },
+  {
+    "report_id": "10029045",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-21",
+    "serious": true,
+    "outcome": [
+      "other serious outcome"
+    ],
+    "reactions": [
+      "Conjunctivitis",
+      "Angioedema"
+    ],
+    "patient_age": "10-months-old",
+    "patient_sex": "unknown",
+    "has_narrative": false,
+    "chunk_text": "10-months-old patient reported Conjunctivitis, Angioedema following use of IBUPROFEN. Outcome: serious \u2014 other serious outcome. Reported: 2014-03-21. Report ID: 10029045."
+  },
+  {
+    "report_id": "10029047",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-21",
+    "serious": true,
+    "outcome": [
+      "other serious outcome"
+    ],
+    "reactions": [
+      "Angioedema"
+    ],
+    "patient_age": "12-months-old",
+    "patient_sex": "unknown",
+    "has_narrative": false,
+    "chunk_text": "12-months-old patient reported Angioedema following use of IBUPROFEN. Outcome: serious \u2014 other serious outcome. Reported: 2014-03-21. Report ID: 10029047."
+  },
+  {
+    "report_id": "10029048",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-21",
+    "serious": true,
+    "outcome": [
+      "other serious outcome"
+    ],
+    "reactions": [
+      "Angioedema"
+    ],
+    "patient_age": "14-months-old",
+    "patient_sex": "unknown",
+    "has_narrative": false,
+    "chunk_text": "14-months-old patient reported Angioedema following use of IBUPROFEN. Outcome: serious \u2014 other serious outcome. Reported: 2014-03-21. Report ID: 10029048."
+  },
+  {
+    "report_id": "10029052",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-21",
+    "serious": true,
+    "outcome": [
+      "other serious outcome"
+    ],
+    "reactions": [
+      "Angioedema",
+      "Urticaria"
+    ],
+    "patient_age": "10-months-old",
+    "patient_sex": "unknown",
+    "has_narrative": false,
+    "chunk_text": "10-months-old patient reported Angioedema, Urticaria following use of IBUPROFEN. Outcome: serious \u2014 other serious outcome. Reported: 2014-03-21. Report ID: 10029052."
+  },
+  {
+    "report_id": "10029068",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-21",
+    "serious": true,
+    "outcome": [
+      "other serious outcome"
+    ],
+    "reactions": [
+      "Dysphonia",
+      "Erythema",
+      "Palatal oedema"
+    ],
+    "patient_age": "24-months-old",
+    "patient_sex": "male",
+    "has_narrative": false,
+    "chunk_text": "24-months-old male patient reported Dysphonia, Erythema, Palatal oedema following use of IBUPROFEN. Outcome: serious \u2014 other serious outcome. Reported: 2014-03-21. Report ID: 10029068."
+  },
+  {
+    "report_id": "10029087",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-21",
+    "serious": true,
+    "outcome": [
+      "other serious outcome"
+    ],
+    "reactions": [
+      "Rash"
+    ],
+    "patient_age": "10-months-old",
+    "patient_sex": "unknown",
+    "has_narrative": false,
+    "chunk_text": "10-months-old patient reported Rash following use of IBUPROFEN. Outcome: serious \u2014 other serious outcome. Reported: 2014-03-21. Report ID: 10029087."
+  },
+  {
+    "report_id": "10029254",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-21",
+    "serious": true,
+    "outcome": [
+      "other serious outcome"
+    ],
+    "reactions": [
+      "Angioedema"
+    ],
+    "patient_age": "9-months-old",
+    "patient_sex": "unknown",
+    "has_narrative": false,
+    "chunk_text": "9-months-old patient reported Angioedema following use of IBUPROFEN. Outcome: serious \u2014 other serious outcome. Reported: 2014-03-21. Report ID: 10029254."
+  },
+  {
+    "report_id": "10029255",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-21",
+    "serious": true,
+    "outcome": [
+      "other serious outcome"
+    ],
+    "reactions": [
+      "Angioedema"
+    ],
+    "patient_age": "9-months-old",
+    "patient_sex": "unknown",
+    "has_narrative": false,
+    "chunk_text": "9-months-old patient reported Angioedema following use of IBUPROFEN. Outcome: serious \u2014 other serious outcome. Reported: 2014-03-21. Report ID: 10029255."
+  },
+  {
+    "report_id": "10029267",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-21",
+    "serious": true,
+    "outcome": [
+      "other serious outcome"
+    ],
+    "reactions": [
+      "Angioedema"
+    ],
+    "patient_age": "10-months-old",
+    "patient_sex": "unknown",
+    "has_narrative": false,
+    "chunk_text": "10-months-old patient reported Angioedema following use of IBUPROFEN. Outcome: serious \u2014 other serious outcome. Reported: 2014-03-21. Report ID: 10029267."
+  },
+  {
+    "report_id": "10029286",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-21",
+    "serious": true,
+    "outcome": [
+      "other serious outcome"
+    ],
+    "reactions": [
+      "Angioedema"
+    ],
+    "patient_age": "10-months-old",
+    "patient_sex": null,
+    "has_narrative": false,
+    "chunk_text": "10-months-old patient reported Angioedema following use of IBUPROFEN. Outcome: serious \u2014 other serious outcome. Reported: 2014-03-21. Report ID: 10029286."
+  },
+  {
+    "report_id": "10029384",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-22",
+    "serious": true,
+    "outcome": [
+      "other serious outcome"
+    ],
+    "reactions": [
+      "Conjunctivitis",
+      "Angioedema",
+      "Asthma",
+      "Lip oedema",
+      "Eye oedema"
+    ],
+    "patient_age": "9-months-old",
+    "patient_sex": "unknown",
+    "has_narrative": false,
+    "chunk_text": "9-months-old patient reported Conjunctivitis, Angioedema, Asthma, Lip oedema, Eye oedema following use of IBUPROFEN. Outcome: serious \u2014 other serious outcome. Reported: 2014-03-22. Report ID: 10029384."
+  },
+  {
+    "report_id": "10029409",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-22",
+    "serious": true,
+    "outcome": [
+      "other serious outcome"
+    ],
+    "reactions": [
+      "Angioedema"
+    ],
+    "patient_age": "9-months-old",
+    "patient_sex": "unknown",
+    "has_narrative": false,
+    "chunk_text": "9-months-old patient reported Angioedema following use of IBUPROFEN. Outcome: serious \u2014 other serious outcome. Reported: 2014-03-22. Report ID: 10029409."
+  },
+  {
+    "report_id": "10029410",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-22",
+    "serious": true,
+    "outcome": [
+      "other serious outcome"
+    ],
+    "reactions": [
+      "Angioedema"
+    ],
+    "patient_age": "9-months-old",
+    "patient_sex": "unknown",
+    "has_narrative": false,
+    "chunk_text": "9-months-old patient reported Angioedema following use of IBUPROFEN. Outcome: serious \u2014 other serious outcome. Reported: 2014-03-22. Report ID: 10029410."
+  },
+  {
+    "report_id": "10029420",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-22",
+    "serious": true,
+    "outcome": [
+      "other serious outcome"
+    ],
+    "reactions": [
+      "Angioedema"
+    ],
+    "patient_age": "10-months-old",
+    "patient_sex": "unknown",
+    "has_narrative": false,
+    "chunk_text": "10-months-old patient reported Angioedema following use of IBUPROFEN. Outcome: serious \u2014 other serious outcome. Reported: 2014-03-22. Report ID: 10029420."
+  },
+  {
+    "report_id": "10029482",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-22",
+    "serious": true,
+    "outcome": [
+      "hospitalization"
+    ],
+    "reactions": [
+      "Drug abuse",
+      "Liver abscess",
+      "Peptic ulcer",
+      "Abdominal tenderness",
+      "Fatigue",
+      "Decreased appetite",
+      "Leukocytosis",
+      "Granulocytosis",
+      "Weight decreased"
+    ],
+    "patient_age": "15-months-old",
+    "patient_sex": "male",
+    "has_narrative": false,
+    "chunk_text": "15-months-old male patient reported Drug abuse, Liver abscess, Peptic ulcer, Abdominal tenderness, Fatigue, Decreased appetite, Leukocytosis, Granulocytosis, Weight decreased following use of IBUPROFEN. Outcome: serious \u2014 hospitalization. Reported: 2014-03-22. Report ID: 10029482."
+  },
+  {
+    "report_id": "10029540",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-20",
+    "serious": true,
+    "outcome": [
+      "hospitalization"
+    ],
+    "reactions": [
+      "Hypersensitivity",
+      "Product quality issue",
+      "Product quality issue"
+    ],
+    "patient_age": "46-months-old",
+    "patient_sex": "female",
+    "has_narrative": false,
+    "chunk_text": "46-months-old female patient reported Hypersensitivity, Product quality issue, Product quality issue following use of IBUPROFEN. Outcome: serious \u2014 hospitalization. Reported: 2014-03-20. Report ID: 10029540."
+  },
+  {
+    "report_id": "10031596",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-24",
+    "serious": false,
+    "outcome": [],
+    "reactions": [
+      "Drug hypersensitivity",
+      "Abdominal discomfort"
+    ],
+    "patient_age": "50-months-old",
+    "patient_sex": "female",
+    "has_narrative": false,
+    "chunk_text": "50-months-old female patient reported Drug hypersensitivity, Abdominal discomfort following use of IBUPROFEN. Outcome: non-serious \u2014 unspecified outcome. Reported: 2014-03-24. Report ID: 10031596."
+  },
+  {
+    "report_id": "10031754",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-24",
+    "serious": false,
+    "outcome": [],
+    "reactions": [
+      "Drug hypersensitivity"
+    ],
+    "patient_age": "64-months-old",
+    "patient_sex": "female",
+    "has_narrative": false,
+    "chunk_text": "64-months-old female patient reported Drug hypersensitivity following use of IBUPROFEN. Outcome: non-serious \u2014 unspecified outcome. Reported: 2014-03-24. Report ID: 10031754."
+  },
+  {
+    "report_id": "10032214",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-24",
+    "serious": true,
+    "outcome": [
+      "hospitalization"
+    ],
+    "reactions": [
+      "Acute generalised exanthematous pustulosis"
+    ],
+    "patient_age": "29-months-old",
+    "patient_sex": "male",
+    "has_narrative": false,
+    "chunk_text": "29-months-old male patient reported Acute generalised exanthematous pustulosis following use of IBUPROFEN. Outcome: serious \u2014 hospitalization. Reported: 2014-03-24. Report ID: 10032214."
+  },
+  {
+    "report_id": "10032440",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-20",
+    "serious": true,
+    "outcome": [
+      "other serious outcome"
+    ],
+    "reactions": [
+      "International normalised ratio increased",
+      "Drug interaction"
+    ],
+    "patient_age": "57-months-old",
+    "patient_sex": "male",
+    "has_narrative": false,
+    "chunk_text": "57-months-old male patient reported International normalised ratio increased, Drug interaction following use of IBUPROFEN. Outcome: serious \u2014 other serious outcome. Reported: 2014-03-20. Report ID: 10032440."
+  },
+  {
+    "report_id": "10032898",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-24",
+    "serious": false,
+    "outcome": [],
+    "reactions": [
+      "Extra dose administered",
+      "Somnolence",
+      "Hypoaesthesia"
+    ],
+    "patient_age": null,
+    "patient_sex": "male",
+    "has_narrative": false,
+    "chunk_text": "Male patient reported Extra dose administered, Somnolence, Hypoaesthesia following use of IBUPROFEN. Outcome: non-serious \u2014 unspecified outcome. Reported: 2014-03-24. Report ID: 10032898."
+  },
+  {
+    "report_id": "10033034",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-24",
+    "serious": true,
+    "outcome": [
+      "hospitalization",
+      "life-threatening",
+      "other serious outcome"
+    ],
+    "reactions": [
+      "Stevens-Johnson syndrome",
+      "Consciousness fluctuating",
+      "Lip swelling",
+      "Lip discolouration",
+      "Blister",
+      "Pain",
+      "Hypersensitivity",
+      "Skin exfoliation",
+      "Chapped lips",
+      "Eye disorder",
+      "Scab",
+      "Scar",
+      "Weight decreased",
+      "Skin disorder",
+      "Rash generalised",
+      "Dyspnoea",
+      "Malaise",
+      "Off label use"
+    ],
+    "patient_age": "13-months-old",
+    "patient_sex": "male",
+    "has_narrative": false,
+    "chunk_text": "13-months-old male patient reported Stevens-Johnson syndrome, Consciousness fluctuating, Lip swelling, Lip discolouration, Blister, Pain, Hypersensitivity, Skin exfoliation, Chapped lips, Eye disorder, Scab, Scar, Weight decreased, Skin disorder, Rash generalised, Dyspnoea, Malaise, Off label use following use of IBUPROFEN. Outcome: serious \u2014 hospitalization, life-threatening, other serious outcome. Reported: 2014-03-24. Report ID: 10033034."
+  },
+  {
+    "report_id": "10033945",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-25",
+    "serious": true,
+    "outcome": [
+      "death"
+    ],
+    "reactions": [
+      "Toxicity to various agents"
+    ],
+    "patient_age": "35-months-old",
+    "patient_sex": "female",
+    "has_narrative": false,
+    "chunk_text": "35-months-old female patient reported Toxicity to various agents following use of IBUPROFEN. Outcome: serious \u2014 death. Reported: 2014-03-25. Report ID: 10033945."
+  },
+  {
+    "report_id": "10034217",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-25",
+    "serious": true,
+    "outcome": [
+      "death"
+    ],
+    "reactions": [
+      "Toxicity to various agents"
+    ],
+    "patient_age": "35-months-old",
+    "patient_sex": "female",
+    "has_narrative": false,
+    "chunk_text": "35-months-old female patient reported Toxicity to various agents following use of IBUPROFEN. Outcome: serious \u2014 death. Reported: 2014-03-25. Report ID: 10034217."
+  },
+  {
+    "report_id": "10034630",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-25",
+    "serious": true,
+    "outcome": [
+      "other serious outcome"
+    ],
+    "reactions": [
+      "Eczema",
+      "Skin exfoliation"
+    ],
+    "patient_age": "68-months-old",
+    "patient_sex": "male",
+    "has_narrative": false,
+    "chunk_text": "68-months-old male patient reported Eczema, Skin exfoliation following use of IBUPROFEN. Outcome: serious \u2014 other serious outcome. Reported: 2014-03-25. Report ID: 10034630."
+  },
+  {
+    "report_id": "10035450",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-25",
+    "serious": false,
+    "outcome": [],
+    "reactions": [
+      "Drug ineffective"
+    ],
+    "patient_age": "73-months-old",
+    "patient_sex": "female",
+    "has_narrative": false,
+    "chunk_text": "73-months-old female patient reported Drug ineffective following use of IBUPROFEN. Outcome: non-serious \u2014 unspecified outcome. Reported: 2014-03-25. Report ID: 10035450."
+  },
+  {
+    "report_id": "10035866",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-25",
+    "serious": true,
+    "outcome": [
+      "other serious outcome"
+    ],
+    "reactions": [
+      "Gastric ulcer",
+      "Abdominal pain",
+      "Vomiting"
+    ],
+    "patient_age": "27-months-old",
+    "patient_sex": "female",
+    "has_narrative": false,
+    "chunk_text": "27-months-old female patient reported Gastric ulcer, Abdominal pain, Vomiting following use of IBUPROFEN. Outcome: serious \u2014 other serious outcome. Reported: 2014-03-25. Report ID: 10035866."
+  },
+  {
+    "report_id": "10035892",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-25",
+    "serious": true,
+    "outcome": [
+      "hospitalization"
+    ],
+    "reactions": [
+      "Blood test abnormal",
+      "Fatigue",
+      "Drug ineffective"
+    ],
+    "patient_age": "62-months-old",
+    "patient_sex": "male",
+    "has_narrative": false,
+    "chunk_text": "62-months-old male patient reported Blood test abnormal, Fatigue, Drug ineffective following use of IBUPROFEN. Outcome: serious \u2014 hospitalization. Reported: 2014-03-25. Report ID: 10035892."
+  },
+  {
+    "report_id": "10036332",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-25",
+    "serious": true,
+    "outcome": [
+      "other serious outcome"
+    ],
+    "reactions": [
+      "Gastric ulcer",
+      "Spinal disorder",
+      "Tremor",
+      "Paraesthesia",
+      "Irritability",
+      "Drug ineffective",
+      "Tremor"
+    ],
+    "patient_age": "59-months-old",
+    "patient_sex": "female",
+    "has_narrative": false,
+    "chunk_text": "59-months-old female patient reported Gastric ulcer, Spinal disorder, Tremor, Paraesthesia, Irritability, Drug ineffective, Tremor following use of IBUPROFEN. Outcome: serious \u2014 other serious outcome. Reported: 2014-03-25. Report ID: 10036332."
+  },
+  {
+    "report_id": "10037054",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-26",
+    "serious": true,
+    "outcome": [
+      "hospitalization",
+      "other serious outcome"
+    ],
+    "reactions": [
+      "Liver abscess",
+      "Gastric fistula",
+      "Gastric ulcer"
+    ],
+    "patient_age": "15-months-old",
+    "patient_sex": "male",
+    "has_narrative": false,
+    "chunk_text": "15-months-old male patient reported Liver abscess, Gastric fistula, Gastric ulcer following use of IBUPROFEN. Outcome: serious \u2014 hospitalization, other serious outcome. Reported: 2014-03-26. Report ID: 10037054."
+  },
+  {
+    "report_id": "10037251",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-26",
+    "serious": true,
+    "outcome": [
+      "life-threatening",
+      "other serious outcome"
+    ],
+    "reactions": [
+      "Hypokalaemia",
+      "Renal tubular acidosis",
+      "Intentional drug misuse"
+    ],
+    "patient_age": "31-months-old",
+    "patient_sex": "male",
+    "has_narrative": false,
+    "chunk_text": "31-months-old male patient reported Hypokalaemia, Renal tubular acidosis, Intentional drug misuse following use of IBUPROFEN. Outcome: serious \u2014 life-threatening, other serious outcome. Reported: 2014-03-26. Report ID: 10037251."
+  },
+  {
+    "report_id": "10037783",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-26",
+    "serious": false,
+    "outcome": [],
+    "reactions": [
+      "Drug hypersensitivity"
+    ],
+    "patient_age": "55-months-old",
+    "patient_sex": "female",
+    "has_narrative": false,
+    "chunk_text": "55-months-old female patient reported Drug hypersensitivity following use of IBUPROFEN. Outcome: non-serious \u2014 unspecified outcome. Reported: 2014-03-26. Report ID: 10037783."
+  },
+  {
+    "report_id": "10038999",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-26",
+    "serious": true,
+    "outcome": [
+      "death",
+      "other serious outcome"
+    ],
+    "reactions": [
+      "Infection",
+      "Renal failure",
+      "Drug interaction"
+    ],
+    "patient_age": null,
+    "patient_sex": "female",
+    "has_narrative": false,
+    "chunk_text": "Female patient reported Infection, Renal failure, Drug interaction following use of IBUPROFEN. Outcome: serious \u2014 death, other serious outcome. Reported: 2014-03-26. Report ID: 10038999."
+  },
+  {
+    "report_id": "10039020",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-26",
+    "serious": true,
+    "outcome": [
+      "other serious outcome"
+    ],
+    "reactions": [
+      "Renal failure",
+      "Creatinine renal clearance abnormal",
+      "Drug interaction"
+    ],
+    "patient_age": null,
+    "patient_sex": "female",
+    "has_narrative": false,
+    "chunk_text": "Female patient reported Renal failure, Creatinine renal clearance abnormal, Drug interaction following use of IBUPROFEN. Outcome: serious \u2014 other serious outcome. Reported: 2014-03-26. Report ID: 10039020."
+  },
+  {
+    "report_id": "10039295",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-26",
+    "serious": true,
+    "outcome": [
+      "other serious outcome"
+    ],
+    "reactions": [
+      "Renal failure",
+      "Drug interaction"
+    ],
+    "patient_age": null,
+    "patient_sex": "female",
+    "has_narrative": false,
+    "chunk_text": "Female patient reported Renal failure, Drug interaction following use of IBUPROFEN. Outcome: serious \u2014 other serious outcome. Reported: 2014-03-26. Report ID: 10039295."
+  },
+  {
+    "report_id": "10039299",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-26",
+    "serious": true,
+    "outcome": [
+      "other serious outcome"
+    ],
+    "reactions": [
+      "Renal failure",
+      "Drug interaction",
+      "Blood pressure decreased"
+    ],
+    "patient_age": null,
+    "patient_sex": "female",
+    "has_narrative": false,
+    "chunk_text": "Female patient reported Renal failure, Drug interaction, Blood pressure decreased following use of IBUPROFEN. Outcome: serious \u2014 other serious outcome. Reported: 2014-03-26. Report ID: 10039299."
+  },
+  {
+    "report_id": "10039310",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-26",
+    "serious": true,
+    "outcome": [
+      "other serious outcome"
+    ],
+    "reactions": [
+      "Creatinine renal clearance abnormal",
+      "Drug interaction"
+    ],
+    "patient_age": null,
+    "patient_sex": "unknown",
+    "has_narrative": false,
+    "chunk_text": "Patient patient reported Creatinine renal clearance abnormal, Drug interaction following use of IBUPROFEN. Outcome: serious \u2014 other serious outcome. Reported: 2014-03-26. Report ID: 10039310."
+  },
+  {
+    "report_id": "10039567",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-26",
+    "serious": true,
+    "outcome": [
+      "other serious outcome"
+    ],
+    "reactions": [
+      "Eczema",
+      "Skin exfoliation",
+      "Skin irritation"
+    ],
+    "patient_age": "68-months-old",
+    "patient_sex": "male",
+    "has_narrative": false,
+    "chunk_text": "68-months-old male patient reported Eczema, Skin exfoliation, Skin irritation following use of IBUPROFEN. Outcome: serious \u2014 other serious outcome. Reported: 2014-03-26. Report ID: 10039567."
+  },
+  {
+    "report_id": "10039609",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-26",
+    "serious": true,
+    "outcome": [
+      "hospitalization"
+    ],
+    "reactions": [
+      "Peptic ulcer perforation",
+      "Gastrointestinal fistula",
+      "Liver abscess",
+      "Drug abuse",
+      "Fatigue",
+      "Decreased appetite",
+      "Weight decreased"
+    ],
+    "patient_age": "15-months-old",
+    "patient_sex": "male",
+    "has_narrative": false,
+    "chunk_text": "15-months-old male patient reported Peptic ulcer perforation, Gastrointestinal fistula, Liver abscess, Drug abuse, Fatigue, Decreased appetite, Weight decreased following use of IBUPROFEN. Outcome: serious \u2014 hospitalization. Reported: 2014-03-26. Report ID: 10039609."
+  },
+  {
+    "report_id": "10039754",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-26",
+    "serious": true,
+    "outcome": [
+      "other serious outcome"
+    ],
+    "reactions": [
+      "Convulsion",
+      "Loss of consciousness",
+      "Diarrhoea",
+      "Vomiting",
+      "Abdominal pain",
+      "Haematochezia",
+      "Irritable bowel syndrome",
+      "White blood cell count increased",
+      "Neutrophil count abnormal",
+      "Serum ferritin abnormal",
+      "Anti-transglutaminase antibody"
+    ],
+    "patient_age": "32-months-old",
+    "patient_sex": "female",
+    "has_narrative": false,
+    "chunk_text": "32-months-old female patient reported Convulsion, Loss of consciousness, Diarrhoea, Vomiting, Abdominal pain, Haematochezia, Irritable bowel syndrome, White blood cell count increased, Neutrophil count abnormal, Serum ferritin abnormal, Anti-transglutaminase antibody following use of IBUPROFEN. Outcome: serious \u2014 other serious outcome. Reported: 2014-03-26. Report ID: 10039754."
+  },
+  {
+    "report_id": "10040169",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-26",
+    "serious": true,
+    "outcome": [
+      "hospitalization"
+    ],
+    "reactions": [
+      "Suicide attempt",
+      "Restlessness",
+      "Anxiety"
+    ],
+    "patient_age": "75-months-old",
+    "patient_sex": "female",
+    "has_narrative": false,
+    "chunk_text": "75-months-old female patient reported Suicide attempt, Restlessness, Anxiety following use of IBUPROFEN. Outcome: serious \u2014 hospitalization. Reported: 2014-03-26. Report ID: 10040169."
+  },
+  {
+    "report_id": "10040223",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-27",
+    "serious": true,
+    "outcome": [
+      "hospitalization"
+    ],
+    "reactions": [
+      "Anaphylactic reaction"
+    ],
+    "patient_age": "child",
+    "patient_sex": null,
+    "has_narrative": false,
+    "chunk_text": "Child patient reported Anaphylactic reaction following use of IBUPROFEN. Outcome: serious \u2014 hospitalization. Reported: 2014-03-27. Report ID: 10040223."
+  },
+  {
+    "report_id": "10040224",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-27",
+    "serious": true,
+    "outcome": [
+      "hospitalization"
+    ],
+    "reactions": [
+      "Anaphylactic reaction"
+    ],
+    "patient_age": "child",
+    "patient_sex": null,
+    "has_narrative": false,
+    "chunk_text": "Child patient reported Anaphylactic reaction following use of IBUPROFEN. Outcome: serious \u2014 hospitalization. Reported: 2014-03-27. Report ID: 10040224."
+  },
+  {
+    "report_id": "10040225",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-27",
+    "serious": true,
+    "outcome": [
+      "hospitalization"
+    ],
+    "reactions": [
+      "Anaphylactic reaction"
+    ],
+    "patient_age": "child",
+    "patient_sex": null,
+    "has_narrative": false,
+    "chunk_text": "Child patient reported Anaphylactic reaction following use of IBUPROFEN. Outcome: serious \u2014 hospitalization. Reported: 2014-03-27. Report ID: 10040225."
+  },
+  {
+    "report_id": "10040258",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-27",
+    "serious": true,
+    "outcome": [
+      "other serious outcome"
+    ],
+    "reactions": [
+      "Liver abscess",
+      "Fistula"
+    ],
+    "patient_age": "16-months-old",
+    "patient_sex": "male",
+    "has_narrative": false,
+    "chunk_text": "16-months-old male patient reported Liver abscess, Fistula following use of IBUPROFEN. Outcome: serious \u2014 other serious outcome. Reported: 2014-03-27. Report ID: 10040258."
+  },
+  {
+    "report_id": "10040944",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-27",
+    "serious": false,
+    "outcome": [],
+    "reactions": [
+      "Drug ineffective",
+      "Abdominal discomfort",
+      "Drug intolerance"
+    ],
+    "patient_age": "75-months-old",
+    "patient_sex": "female",
+    "has_narrative": false,
+    "chunk_text": "75-months-old female patient reported Drug ineffective, Abdominal discomfort, Drug intolerance following use of IBUPROFEN. Outcome: non-serious \u2014 unspecified outcome. Reported: 2014-03-27. Report ID: 10040944."
+  },
+  {
+    "report_id": "10041731",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-25",
+    "serious": true,
+    "outcome": [
+      "death"
+    ],
+    "reactions": [
+      "Completed suicide",
+      "Exposure via ingestion",
+      "Toxicity to various agents",
+      "Drug abuse"
+    ],
+    "patient_age": "71-months-old",
+    "patient_sex": "male",
+    "has_narrative": false,
+    "chunk_text": "71-months-old male patient reported Completed suicide, Exposure via ingestion, Toxicity to various agents, Drug abuse following use of IBUPROFEN. Outcome: serious \u2014 death. Reported: 2014-03-25. Report ID: 10041731."
+  },
+  {
+    "report_id": "10041918",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-27",
+    "serious": true,
+    "outcome": [
+      "other serious outcome"
+    ],
+    "reactions": [
+      "Angioedema",
+      "Swollen tongue"
+    ],
+    "patient_age": "32-months-old",
+    "patient_sex": "female",
+    "has_narrative": false,
+    "chunk_text": "32-months-old female patient reported Angioedema, Swollen tongue following use of IBUPROFEN. Outcome: serious \u2014 other serious outcome. Reported: 2014-03-27. Report ID: 10041918."
+  },
+  {
+    "report_id": "10041927",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-27",
+    "serious": true,
+    "outcome": [
+      "hospitalization",
+      "other serious outcome"
+    ],
+    "reactions": [
+      "Intentional self-injury",
+      "Overdose",
+      "Abdominal pain",
+      "Vomiting"
+    ],
+    "patient_age": "18-months-old",
+    "patient_sex": "male",
+    "has_narrative": false,
+    "chunk_text": "18-months-old male patient reported Intentional self-injury, Overdose, Abdominal pain, Vomiting following use of IBUPROFEN. Outcome: serious \u2014 hospitalization, other serious outcome. Reported: 2014-03-27. Report ID: 10041927."
+  },
+  {
+    "report_id": "10041936",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-27",
+    "serious": true,
+    "outcome": [
+      "other serious outcome"
+    ],
+    "reactions": [
+      "Aggression",
+      "Judgement impaired",
+      "Substance abuse",
+      "Drug dependence"
+    ],
+    "patient_age": "22-months-old",
+    "patient_sex": "male",
+    "has_narrative": false,
+    "chunk_text": "22-months-old male patient reported Aggression, Judgement impaired, Substance abuse, Drug dependence following use of IBUPROFEN. Outcome: serious \u2014 other serious outcome. Reported: 2014-03-27. Report ID: 10041936."
+  },
+  {
+    "report_id": "10042142",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-27",
+    "serious": true,
+    "outcome": [
+      "other serious outcome"
+    ],
+    "reactions": [
+      "Fracture nonunion",
+      "Infection"
+    ],
+    "patient_age": null,
+    "patient_sex": "unknown",
+    "has_narrative": false,
+    "chunk_text": "Patient patient reported Fracture nonunion, Infection following use of IBUPROFEN. Outcome: serious \u2014 other serious outcome. Reported: 2014-03-27. Report ID: 10042142."
+  },
+  {
+    "report_id": "10042183",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-27",
+    "serious": true,
+    "outcome": [
+      "other serious outcome"
+    ],
+    "reactions": [
+      "Dermatitis bullous"
+    ],
+    "patient_age": "74-months-old",
+    "patient_sex": "female",
+    "has_narrative": false,
+    "chunk_text": "74-months-old female patient reported Dermatitis bullous following use of IBUPROFEN. Outcome: serious \u2014 other serious outcome. Reported: 2014-03-27. Report ID: 10042183."
+  },
+  {
+    "report_id": "10042256",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-25",
+    "serious": false,
+    "outcome": [],
+    "reactions": [
+      "Completed suicide",
+      "Exposure via ingestion",
+      "Toxicity to various agents"
+    ],
+    "patient_age": "25-months-old",
+    "patient_sex": "female",
+    "has_narrative": false,
+    "chunk_text": "25-months-old female patient reported Completed suicide, Exposure via ingestion, Toxicity to various agents following use of IBUPROFEN. Outcome: non-serious \u2014 unspecified outcome. Reported: 2014-03-25. Report ID: 10042256."
+  },
+  {
+    "report_id": "10042692",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-27",
+    "serious": true,
+    "outcome": [
+      "other serious outcome"
+    ],
+    "reactions": [
+      "Drug interaction",
+      "Renal failure",
+      "Blood pressure decreased"
+    ],
+    "patient_age": null,
+    "patient_sex": "female",
+    "has_narrative": false,
+    "chunk_text": "Female patient reported Drug interaction, Renal failure, Blood pressure decreased following use of IBUPROFEN. Outcome: serious \u2014 other serious outcome. Reported: 2014-03-27. Report ID: 10042692."
+  },
+  {
+    "report_id": "10042816",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-27",
+    "serious": true,
+    "outcome": [
+      "other serious outcome"
+    ],
+    "reactions": [
+      "Renal failure",
+      "Drug interaction",
+      "Blood pressure decreased"
+    ],
+    "patient_age": null,
+    "patient_sex": "female",
+    "has_narrative": false,
+    "chunk_text": "Female patient reported Renal failure, Drug interaction, Blood pressure decreased following use of IBUPROFEN. Outcome: serious \u2014 other serious outcome. Reported: 2014-03-27. Report ID: 10042816."
+  },
+  {
+    "report_id": "10043482",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-26",
+    "serious": true,
+    "outcome": [
+      "death",
+      "other serious outcome"
+    ],
+    "reactions": [
+      "Creatinine renal clearance increased",
+      "Renal failure",
+      "Dialysis",
+      "Post procedural haemorrhage",
+      "Drug interaction",
+      "Blood pressure decreased",
+      "Infection"
+    ],
+    "patient_age": null,
+    "patient_sex": "female",
+    "has_narrative": false,
+    "chunk_text": "Female patient reported Creatinine renal clearance increased, Renal failure, Dialysis, Post procedural haemorrhage, Drug interaction, Blood pressure decreased, Infection following use of IBUPROFEN. Outcome: serious \u2014 death, other serious outcome. Reported: 2014-03-26. Report ID: 10043482."
+  },
+  {
+    "report_id": "10043517",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-28",
+    "serious": false,
+    "outcome": [],
+    "reactions": [
+      "Drug hypersensitivity"
+    ],
+    "patient_age": "65-months-old",
+    "patient_sex": "female",
+    "has_narrative": false,
+    "chunk_text": "65-months-old female patient reported Drug hypersensitivity following use of IBUPROFEN. Outcome: non-serious \u2014 unspecified outcome. Reported: 2014-03-28. Report ID: 10043517."
+  },
+  {
+    "report_id": "10044338",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-26",
+    "serious": true,
+    "outcome": [
+      "death",
+      "other serious outcome"
+    ],
+    "reactions": [
+      "Creatinine renal clearance increased",
+      "Anaemia",
+      "Peripheral arterial occlusive disease",
+      "Cardiac failure",
+      "Gastric ulcer",
+      "Atrial fibrillation",
+      "Acute myocardial infarction",
+      "Aortic valve stenosis",
+      "Haematemesis",
+      "International normalised ratio increased",
+      "Prothrombin level increased",
+      "Coagulation factor VII level increased",
+      "Coagulation factor X level increased",
+      "Skin ulcer",
+      "Infected skin ulcer",
+      "Pulmonary oedema",
+      "Hypotension",
+      "Syncope",
+      "Hyperkalaemia",
+      "Thyroxine increased",
+      "Coronary artery occlusion",
+      "Coronary artery stenosis",
+      "Renal failure",
+      "Leg amputation",
+      "Peripheral arterial occlusive disease",
+      "Condition aggravated",
+      "Concomitant disease aggravated",
+      "Infection",
+      "Drug interaction",
+      "Hip surgery",
+      "Knee arthroplasty",
+      "Hip arthroplasty",
+      "Post procedural complication",
+      "Post procedural infection",
+      "Renal failure",
+      "Blood pressure decreased",
+      "Nephropathy toxic"
+    ],
+    "patient_age": null,
+    "patient_sex": "female",
+    "has_narrative": false,
+    "chunk_text": "Female patient reported Creatinine renal clearance increased, Anaemia, Peripheral arterial occlusive disease, Cardiac failure, Gastric ulcer, Atrial fibrillation, Acute myocardial infarction, Aortic valve stenosis, Haematemesis, International normalised ratio increased, Prothrombin level increased, Coagulation factor VII level increased, Coagulation factor X level increased, Skin ulcer, Infected skin ulcer, Pulmonary oedema, Hypotension, Syncope, Hyperkalaemia, Thyroxine increased, Coronary artery occlusion, Coronary artery stenosis, Renal failure, Leg amputation, Peripheral arterial occlusive disease, Condition aggravated, Concomitant disease aggravated, Infection, Drug interaction, Hip surgery, Knee arthroplasty, Hip arthroplasty, Post procedural complication, Post procedural infection, Renal failure, Blood pressure decreased, Nephropathy toxic following use of IBUPROFEN. Outcome: serious \u2014 death, other serious outcome. Reported: 2014-03-26. Report ID: 10044338."
+  },
+  {
+    "report_id": "10044465",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-28",
+    "serious": true,
+    "outcome": [
+      "other serious outcome"
+    ],
+    "reactions": [
+      "Melaena",
+      "Anaemia",
+      "Blood urea nitrogen/creatinine ratio increased"
+    ],
+    "patient_age": "82-months-old",
+    "patient_sex": "female",
+    "has_narrative": false,
+    "chunk_text": "82-months-old female patient reported Melaena, Anaemia, Blood urea nitrogen/creatinine ratio increased following use of IBUPROFEN. Outcome: serious \u2014 other serious outcome. Reported: 2014-03-28. Report ID: 10044465."
+  },
+  {
+    "report_id": "10044671",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-28",
+    "serious": true,
+    "outcome": [
+      "hospitalization",
+      "other serious outcome"
+    ],
+    "reactions": [
+      "Overdose",
+      "Intentional self-injury",
+      "Abdominal pain",
+      "Vomiting"
+    ],
+    "patient_age": "18-months-old",
+    "patient_sex": "male",
+    "has_narrative": false,
+    "chunk_text": "18-months-old male patient reported Overdose, Intentional self-injury, Abdominal pain, Vomiting following use of IBUPROFEN. Outcome: serious \u2014 hospitalization, other serious outcome. Reported: 2014-03-28. Report ID: 10044671."
+  },
+  {
+    "report_id": "10045043",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-28",
+    "serious": true,
+    "outcome": [
+      "other serious outcome"
+    ],
+    "reactions": [
+      "Coronary artery occlusion",
+      "Intestinal haemorrhage",
+      "Inappropriate schedule of drug administration",
+      "Incorrect drug administration duration",
+      "Therapeutic response changed"
+    ],
+    "patient_age": "74-months-old",
+    "patient_sex": "female",
+    "has_narrative": false,
+    "chunk_text": "74-months-old female patient reported Coronary artery occlusion, Intestinal haemorrhage, Inappropriate schedule of drug administration, Incorrect drug administration duration, Therapeutic response changed following use of IBUPROFEN. Outcome: serious \u2014 other serious outcome. Reported: 2014-03-28. Report ID: 10045043."
+  },
+  {
+    "report_id": "10046837",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-31",
+    "serious": true,
+    "outcome": [
+      "hospitalization"
+    ],
+    "reactions": [
+      "Immune thrombocytopenic purpura",
+      "Thrombocytopenia",
+      "Petechiae"
+    ],
+    "patient_age": null,
+    "patient_sex": "female",
+    "has_narrative": false,
+    "chunk_text": "Female patient reported Immune thrombocytopenic purpura, Thrombocytopenia, Petechiae following use of IBUPROFEN. Outcome: serious \u2014 hospitalization. Reported: 2014-03-31. Report ID: 10046837."
+  },
+  {
+    "report_id": "10046871",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-31",
+    "serious": true,
+    "outcome": [
+      "other serious outcome"
+    ],
+    "reactions": [
+      "Eczema",
+      "Skin irritation",
+      "Skin exfoliation"
+    ],
+    "patient_age": "68-months-old",
+    "patient_sex": "male",
+    "has_narrative": false,
+    "chunk_text": "68-months-old male patient reported Eczema, Skin irritation, Skin exfoliation following use of IBUPROFEN. Outcome: serious \u2014 other serious outcome. Reported: 2014-03-31. Report ID: 10046871."
+  },
+  {
+    "report_id": "10048037",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-31",
+    "serious": true,
+    "outcome": [
+      "life-threatening",
+      "disability"
+    ],
+    "reactions": [
+      "Anaphylactic reaction"
+    ],
+    "patient_age": "45-months-old",
+    "patient_sex": "female",
+    "has_narrative": false,
+    "chunk_text": "45-months-old female patient reported Anaphylactic reaction following use of IBUPROFEN. Outcome: serious \u2014 life-threatening, disability. Reported: 2014-03-31. Report ID: 10048037."
+  },
+  {
+    "report_id": "10048098",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-31",
+    "serious": false,
+    "outcome": [],
+    "reactions": [
+      "Salivary gland pain",
+      "Gastrooesophageal reflux disease",
+      "Pharyngitis streptococcal"
+    ],
+    "patient_age": "54-months-old",
+    "patient_sex": "female",
+    "has_narrative": false,
+    "chunk_text": "54-months-old female patient reported Salivary gland pain, Gastrooesophageal reflux disease, Pharyngitis streptococcal following use of IBUPROFEN. Outcome: non-serious \u2014 unspecified outcome. Reported: 2014-03-31. Report ID: 10048098."
+  },
+  {
+    "report_id": "10048247",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-31",
+    "serious": false,
+    "outcome": [],
+    "reactions": [
+      "Drug screen positive"
+    ],
+    "patient_age": null,
+    "patient_sex": "male",
+    "has_narrative": false,
+    "chunk_text": "Male patient reported Drug screen positive following use of IBUPROFEN. Outcome: non-serious \u2014 unspecified outcome. Reported: 2014-03-31. Report ID: 10048247."
+  },
+  {
+    "report_id": "10048255",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-31",
+    "serious": false,
+    "outcome": [],
+    "reactions": [
+      "Drug hypersensitivity"
+    ],
+    "patient_age": "65-months-old",
+    "patient_sex": "female",
+    "has_narrative": false,
+    "chunk_text": "65-months-old female patient reported Drug hypersensitivity following use of IBUPROFEN. Outcome: non-serious \u2014 unspecified outcome. Reported: 2014-03-31. Report ID: 10048255."
+  },
+  {
+    "report_id": "10048542",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-27",
+    "serious": true,
+    "outcome": [
+      "death",
+      "other serious outcome"
+    ],
+    "reactions": [
+      "Completed suicide",
+      "Exposure via ingestion",
+      "Toxicity to various agents",
+      "Cardiac arrest",
+      "Respiratory arrest"
+    ],
+    "patient_age": "67-months-old",
+    "patient_sex": "female",
+    "has_narrative": false,
+    "chunk_text": "67-months-old female patient reported Completed suicide, Exposure via ingestion, Toxicity to various agents, Cardiac arrest, Respiratory arrest following use of IBUPROFEN. Outcome: serious \u2014 death, other serious outcome. Reported: 2014-03-27. Report ID: 10048542."
+  },
+  {
+    "report_id": "10048566",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-27",
+    "serious": true,
+    "outcome": [
+      "death"
+    ],
+    "reactions": [
+      "Completed suicide",
+      "Toxicity to various agents",
+      "Exposure via ingestion"
+    ],
+    "patient_age": "51-months-old",
+    "patient_sex": "male",
+    "has_narrative": false,
+    "chunk_text": "51-months-old male patient reported Completed suicide, Toxicity to various agents, Exposure via ingestion following use of IBUPROFEN. Outcome: serious \u2014 death. Reported: 2014-03-27. Report ID: 10048566."
+  },
+  {
+    "report_id": "10048917",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-31",
+    "serious": true,
+    "outcome": [
+      "hospitalization"
+    ],
+    "reactions": [
+      "Lower gastrointestinal haemorrhage"
+    ],
+    "patient_age": "82-months-old",
+    "patient_sex": "male",
+    "has_narrative": false,
+    "chunk_text": "82-months-old male patient reported Lower gastrointestinal haemorrhage following use of IBUPROFEN. Outcome: serious \u2014 hospitalization. Reported: 2014-03-31. Report ID: 10048917."
+  },
+  {
+    "report_id": "10049046",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-31",
+    "serious": true,
+    "outcome": [
+      "other serious outcome"
+    ],
+    "reactions": [
+      "Renal failure acute"
+    ],
+    "patient_age": null,
+    "patient_sex": "unknown",
+    "has_narrative": false,
+    "chunk_text": "Patient patient reported Renal failure acute following use of IBUPROFEN. Outcome: serious \u2014 other serious outcome. Reported: 2014-03-31. Report ID: 10049046."
+  },
+  {
+    "report_id": "10049140",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-04-01",
+    "serious": true,
+    "outcome": [
+      "hospitalization",
+      "other serious outcome"
+    ],
+    "reactions": [
+      "Anxiety",
+      "Restlessness",
+      "Suicide attempt"
+    ],
+    "patient_age": "75-months-old",
+    "patient_sex": "female",
+    "has_narrative": false,
+    "chunk_text": "75-months-old female patient reported Anxiety, Restlessness, Suicide attempt following use of IBUPROFEN. Outcome: serious \u2014 hospitalization, other serious outcome. Reported: 2014-04-01. Report ID: 10049140."
+  },
+  {
+    "report_id": "10049372",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-04-01",
+    "serious": true,
+    "outcome": [
+      "death",
+      "hospitalization",
+      "life-threatening"
+    ],
+    "reactions": [
+      "Renal failure acute",
+      "Nephropathy",
+      "Cardiac failure chronic",
+      "Dehydration",
+      "Hyperkalaemia",
+      "Drug interaction",
+      "Cerebrovascular accident",
+      "Myocardial infarction",
+      "Cardiac failure",
+      "Blood pressure increased"
+    ],
+    "patient_age": null,
+    "patient_sex": "unknown",
+    "has_narrative": false,
+    "chunk_text": "Patient patient reported Renal failure acute, Nephropathy, Cardiac failure chronic, Dehydration, Hyperkalaemia, Drug interaction, Cerebrovascular accident, Myocardial infarction, Cardiac failure, Blood pressure increased following use of IBUPROFEN. Outcome: serious \u2014 death, hospitalization, life-threatening. Reported: 2014-04-01. Report ID: 10049372."
+  },
+  {
+    "report_id": "10049708",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-04-01",
+    "serious": true,
+    "outcome": [
+      "other serious outcome"
+    ],
+    "reactions": [
+      "Abdominal pain",
+      "Anti-transglutaminase antibody",
+      "Haematochezia",
+      "Neutrophil count abnormal",
+      "Convulsion",
+      "Diarrhoea",
+      "Loss of consciousness",
+      "Serum ferritin abnormal",
+      "Vomiting",
+      "White blood cell count increased",
+      "Irritable bowel syndrome"
+    ],
+    "patient_age": "32-months-old",
+    "patient_sex": "female",
+    "has_narrative": false,
+    "chunk_text": "32-months-old female patient reported Abdominal pain, Anti-transglutaminase antibody, Haematochezia, Neutrophil count abnormal, Convulsion, Diarrhoea, Loss of consciousness, Serum ferritin abnormal, Vomiting, White blood cell count increased, Irritable bowel syndrome following use of IBUPROFEN. Outcome: serious \u2014 other serious outcome. Reported: 2014-04-01. Report ID: 10049708."
+  },
+  {
+    "report_id": "10050010",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-04-01",
+    "serious": true,
+    "outcome": [
+      "life-threatening",
+      "disability"
+    ],
+    "reactions": [
+      "Anaphylactic reaction"
+    ],
+    "patient_age": "45-months-old",
+    "patient_sex": "female",
+    "has_narrative": false,
+    "chunk_text": "45-months-old female patient reported Anaphylactic reaction following use of IBUPROFEN. Outcome: serious \u2014 life-threatening, disability. Reported: 2014-04-01. Report ID: 10050010."
+  },
+  {
+    "report_id": "10050421",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-03-28",
+    "serious": true,
+    "outcome": [
+      "death"
+    ],
+    "reactions": [
+      "Completed suicide",
+      "Toxicity to various agents",
+      "Exposure via ingestion"
+    ],
+    "patient_age": "85-months-old",
+    "patient_sex": "male",
+    "has_narrative": false,
+    "chunk_text": "85-months-old male patient reported Completed suicide, Toxicity to various agents, Exposure via ingestion following use of IBUPROFEN. Outcome: serious \u2014 death. Reported: 2014-03-28. Report ID: 10050421."
+  },
+  {
+    "report_id": "10051283",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-04-01",
+    "serious": false,
+    "outcome": [],
+    "reactions": [
+      "Swelling"
+    ],
+    "patient_age": null,
+    "patient_sex": "female",
+    "has_narrative": false,
+    "chunk_text": "Female patient reported Swelling following use of IBUPROFEN. Outcome: non-serious \u2014 unspecified outcome. Reported: 2014-04-01. Report ID: 10051283."
+  },
+  {
+    "report_id": "10051700",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-04-01",
+    "serious": true,
+    "outcome": [
+      "other serious outcome"
+    ],
+    "reactions": [
+      "Drug interaction",
+      "Renal failure",
+      "Blood pressure decreased"
+    ],
+    "patient_age": null,
+    "patient_sex": "female",
+    "has_narrative": false,
+    "chunk_text": "Female patient reported Drug interaction, Renal failure, Blood pressure decreased following use of IBUPROFEN. Outcome: serious \u2014 other serious outcome. Reported: 2014-04-01. Report ID: 10051700."
+  },
+  {
+    "report_id": "10051716",
+    "drug_name": "ibuprofen",
+    "receive_date": "2014-04-01",
+    "serious": true,
+    "outcome": [
+      "hospitalization",
+      "life-threatening",
+      "other serious outcome"
+    ],
+    "reactions": [
+      "Intervertebral disc degeneration",
+      "Nuclear magnetic resonance imaging abnormal",
+      "Electrocardiogram abnormal",
+      "Tooth fracture",
+      "Post procedural haemorrhage",
+      "Foreign body reaction",
+      "Extradural abscess",
+      "Wound dehiscence",
+      "Purulent discharge",
+      "Urinary casts",
+      "Arthritis bacterial",
+      "Osteomyelitis",
+      "Contusion",
+      "Throat irritation",
+      "Hypertensive encephalopathy",
+      "Neuropathy peripheral",
+      "Anxiety disorder",
+      "Left ventricular hypertrophy",
+      "Impaired gastric emptying",
+      "Lumbar spinal stenosis",
+      "Skin infection",
+      "Influenza",
+      "Wound infection staphylococcal",
+      "Blood albumin decreased",
+      "Staphylococcus test positive",
+      "Red blood cell sedimentation rate increased",
+      "C-reactive protein increased",
+      "Blood calcium decreased",
+      "Blood glucose increased",
+      "Globulins increased",
+      "Hypokalaemia",
+      "Hyponatraemia",
+      "Respiratory rate increased",
+      "Mean cell volume decreased",
+      "Blood potassium decreased",
+      "Blood sodium decreased",
+      "Urinary tract infection",
+      "Red blood cells urine positive",
+      "White blood cells urine positive",
+      "Neutrophil count increased",
+      "Haemoglobin decreased",
+      "Hypovolaemia",
+      "Hyperpathia",
+      "Spinal osteoarthritis",
+      "Paralysis",
+      "Obesity",
+      "Haematocrit decreased",
+      "Myositis",
+      "Soft tissue infection",
+      "Cellulitis",
+      "Allodynia",
+      "Cough",
+      "Heart rate increased",
+      "Anaemia",
+      "Feeling hot",
+      "Abasia",
+      "Malaise",
+      "Dyspnoea",
+      "Hypertensive crisis",
+      "Hypoaesthesia",
+      "Tremor",
+      "Implant site hypersensitivity",
+      "Implant site discharge",
+      "Implant site pain",
+      "Implant site extravasation",
+      "Implant site infection",
+      "Implant site abscess",
+      "Muscle spasms",
+      "Pyrexia",
+      "Muscular weakness",
+      "Neuralgia",
+      "Pain",
+      "Hypertension",
+      "Pain in extremity",
+      "Insomnia",
+      "Dehydration",
+      "Convulsion",
+      "Headache",
+      "Asthenia",
+      "Paraesthesia",
+      "Nausea",
+      "Meningitis",
+      "Back pain",
+      "Implant site mass",
+      "Vomiting",
+      "Dry mouth",
+      "Blood magnesium decreased",
+      "No therapeutic response"
+    ],
+    "patient_age": "58-months-old",
+    "patient_sex": "female",
+    "has_narrative": false,
+    "chunk_text": "58-months-old female patient reported Intervertebral disc degeneration, Nuclear magnetic resonance imaging abnormal, Electrocardiogram abnormal, Tooth fracture, Post procedural haemorrhage, Foreign body reaction, Extradural abscess, Wound dehiscence, Purulent discharge, Urinary casts, Arthritis bacterial, Osteomyelitis, Contusion, Throat irritation, Hypertensive encephalopathy, Neuropathy peripheral, Anxiety disorder, Left ventricular hypertrophy, Impaired gastric emptying, Lumbar spinal stenosis, Skin infection, Influenza, Wound infection staphylococcal, Blood albumin decreased, Staphylococcus test positive, Red blood cell sedimentation rate increased, C-reactive protein increased, Blood calcium decreased, Blood glucose increased, Globulins increased, Hypokalaemia, Hyponatraemia, Respiratory rate increased, Mean cell volume decreased, Blood potassium decreased, Blood sodium decreased, Urinary tract infection, Red blood cells urine positive, White blood cells urine positive, Neutrophil count increased, Haemoglobin decreased, Hypovolaemia, Hyperpathia, Spinal osteoarthritis, Paralysis, Obesity, Haematocrit decreased, Myositis, Soft tissue infection, Cellulitis, Allodynia, Cough, Heart rate increased, Anaemia, Feeling hot, Abasia, Malaise, Dyspnoea, Hypertensive crisis, Hypoaesthesia, Tremor, Implant site hypersensitivity, Implant site discharge, Implant site pain, Implant site extravasation, Implant site infection, Implant site abscess, Muscle spasms, Pyrexia, Muscular weakness, Neuralgia, Pain, Hypertension, Pain in extremity, Insomnia, Dehydration, Convulsion, Headache, Asthenia, Paraesthesia, Nausea, Meningitis, Back pain, Implant site mass, Vomiting, Dry mouth, Blood magnesium decreased, No therapeutic response following use of IBUPROFEN. Outcome: serious \u2014 hospitalization, life-threatening, other serious outcome. Reported: 2014-04-01. Report ID: 10051716."
+  }
+]
