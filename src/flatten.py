@@ -6,7 +6,6 @@ from pydantic import ValidationError
 from src.schema import AdverseEventChunk
 
 
-# ── Lookup tables ─────────────────────────────────────────────────────────────
 
 SEX_MAP = {
     "0": "unknown",
@@ -41,7 +40,6 @@ AGE_GROUP_MAP = {
 }
 
 
-# ── Field extractors ──────────────────────────────────────────────────────────
 
 def extract_reactions(patient: dict) -> list[str]:
     return [
@@ -91,7 +89,6 @@ def parse_date(raw_date: Optional[str]) -> Optional[str]:
     return raw_date
 
 
-# ── Suspect drug filter ───────────────────────────────────────────────────────
 
 def is_target_drug_suspect(patient: dict, target_drug: str) -> bool:
     """
@@ -111,7 +108,6 @@ def is_target_drug_suspect(patient: dict, target_drug: str) -> bool:
     return False
 
 
-# ── Sentence synthesizer ──────────────────────────────────────────────────────
 
 def build_chunk_text(
     report_id:    str,
@@ -143,7 +139,6 @@ def build_chunk_text(
     )
 
 
-# ── Record flattener ──────────────────────────────────────────────────────────
 
 def flatten_record(record: dict, target_drug: str) -> Optional[AdverseEventChunk]:
     """
@@ -202,7 +197,6 @@ def flatten_record(record: dict, target_drug: str) -> Optional[AdverseEventChunk
         return None
 
 
-# ── Batch flattener ───────────────────────────────────────────────────────────
 
 def flatten_all(records: list[dict], drug_name: str) -> list[AdverseEventChunk]:
     chunks  = []
@@ -223,7 +217,6 @@ def flatten_all(records: list[dict], drug_name: str) -> list[AdverseEventChunk]:
     return chunks
 
 
-# ── Save chunks to disk ───────────────────────────────────────────────────────
 
 def save_chunks(
     chunks:    list[AdverseEventChunk],
@@ -231,7 +224,7 @@ def save_chunks(
     out_dir:   str = "data/chunks",
 ) -> Path:
     Path(out_dir).mkdir(parents=True, exist_ok=True)
-    safe_name = drug_name.lower().replace(" ", "_")
+    safe_name = drug_name.lower().replace(" ", "-")
     out_path  = Path(out_dir) / f"{safe_name}_chunks.json"
 
     with open(out_path, "w") as f:
@@ -241,7 +234,6 @@ def save_chunks(
     return out_path
 
 
-# ── Inspection ────────────────────────────────────────────────────────────────
 
 def inspect_chunks(chunks: list[AdverseEventChunk], sample_size: int = 5) -> None:
     total         = len(chunks)
@@ -269,8 +261,6 @@ def inspect_chunks(chunks: list[AdverseEventChunk], sample_size: int = 5) -> Non
         print(f"  reactions  : {chunk.reactions[:4]}")
         print(f"  chunk_text :\n    {chunk.chunk_text}")
 
-
-# ── Entry point ───────────────────────────────────────────────────────────────
 
 if __name__ == "__main__":
     drug     = "ibuprofen"

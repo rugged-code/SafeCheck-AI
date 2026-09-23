@@ -1,4 +1,14 @@
+# Environment variables / API keys
 .env
-data/raw/
+
+# Python cache and build files
 __pycache__/
+*.py[cod]
+*$py.class
 .venv/
+env/
+venv/
+
+# Local data cache (since they can be re-fetched or are too large)
+data/raw/
+data/chunks/
